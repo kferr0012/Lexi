@@ -27,7 +27,7 @@ class LaunchRequestHandler(AbstractRequestHandler):
 
     def handle(self, handler_input):
         # type: (HandlerInput) -> Response
-        speak_output = "Welcome, you can say Hello or Help. Which would you like to try?"
+        speak_output = "Hi I am Lexi, your medical bot assistant."
 
         return (
             handler_input.response_builder
@@ -163,6 +163,37 @@ class CatchAllExceptionHandler(AbstractExceptionHandler):
                 .response
         )
 
+
+#Kevin's Code
+class PrescribeMedicationIntentHandler(AbstractRequestHandler):
+    def can_handle(self, handler_input):
+        return ask_utils.is_intent_name("prescribeMedicationIntent")(handler_input)
+        
+    def handle(self, handler_input):
+        slots = handler_input.request_envelope.request.intent.slots
+        diseaseType = slots["disease"].value
+        
+        #Dummy Response
+        speak_output= "Disease detected " + diseaseType
+        
+        
+        if diseaseType == "covid":
+            speak_output += ". There are no known medication for covid."
+        elif diseaseType == "cold":
+            speak_output += ". The best medication is Tylenol."
+        elif diseaseType == "influenza":
+            speak_output += ". The best medication is Tamiflu."
+        elif diseaseType == "myocardial infraction":
+            speak_output += ". The best medication is aspirin."
+        else:
+            speak_output += ". I am not sure what you asked."
+        
+        return(
+            handler_input.response_builder.speak(speak_output).response
+            )
+
+
+
 # The SkillBuilder object acts as the entry point for your skill, routing all request and response
 # payloads to the handlers above. Make sure any new handlers or interceptors you've
 # defined are included below. The order matters - they're processed top to bottom.
@@ -172,6 +203,7 @@ sb = SkillBuilder()
 
 sb.add_request_handler(LaunchRequestHandler())
 sb.add_request_handler(HelloWorldIntentHandler())
+sb.add_request_handler(PrescribeMedicationIntentHandler()) #Added new handler
 sb.add_request_handler(HelpIntentHandler())
 sb.add_request_handler(CancelOrStopIntentHandler())
 sb.add_request_handler(FallbackIntentHandler())
