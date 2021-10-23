@@ -1,7 +1,7 @@
 # Lexi
 
 ## Summary :
-#### Lexi is a medical assistant application that will be integrated into Alexa Devices and Amazon Astro. Lexi is designed to assist doctors in prescribing drugs and avoiding potential adverse drug-to-drug prescriptions.
+#### Lexi is a medical assistant application that will be integrated into Alexa Devices and Amazon Astro. Lexi is designed to assist doctors in prescribing drugs and avoiding adverse drug-to-drug prescriptions.
 
 ## Current Features :
 * Prescription Recommendation
