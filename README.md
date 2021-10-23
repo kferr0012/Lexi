@@ -24,7 +24,7 @@
     * User says "hey lexi"
     * (This is the Invocation Name, similar to saying "Alexa")
 * Ask for a prescription recommendation :
-    * User provides an utterance
+    * User provides an utterance for Prescription Recommendation
     * (e.g. User says "My patient has a cold. What should I give him?")
 
 
