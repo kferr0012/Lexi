@@ -5,11 +5,11 @@
 
 ## Current Features :
 * Prescription Recommendation
-    *As a doctor, I want Lexi to provide a prescription recommendation based on my patient's disease/illness.
+    * As a doctor, I want Lexi to provide a prescription recommendation based on my patient's disease/illness.
 
 ## Future Features : 
 * Adverse Drug-to-Drug Detection
-    *As a doctor, I want to be able to ask Lexi if there's any adverse interaction between a given list of drugs.
+    * As a doctor, I want to be able to ask Lexi if there's any adverse interaction between a given list of drugs.
 
 ## Terminology :
 * Invocation Name :
@@ -25,7 +25,7 @@
     * (This is the Invocation Name, similar to saying "Alexa")
 * Ask for a prescription recommendation :
     * User provides an utterance
-    * (e.g. "My patient has a cold. What should I give him?")
+    * (e.g. User says "My patient has a cold. What should I give him?")
 
 
 ## Design Graph 
