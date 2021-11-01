@@ -9,8 +9,10 @@
 
 ## Future Features : 
 * Adverse Drug-to-Drug Detection
-    * As a doctor, I want to be able to ask Lexi if there's any adverse interaction between a given list of drugs.
-
+   * As a doctor, I want to be able to ask Lexi if there's any adverse interaction between a given list of drugs.
+* Ask Mayo Clinic :
+   * As a doctor, I want ask what Mayo Clinic says about a given drug.
+   
 ## Terminology :
 * Invocation Name :
     * The Invocation Name is used to launch Lexi through an Alexa or Amazon Astro endpoint.
