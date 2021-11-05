@@ -3,6 +3,7 @@ with open("Knowledge.json", "r") as knowledge_file:
   data = json.load(knowledge_file)
 
 def getTreatementsFor(Disease):
+  #returns a list of all available treatements for the given Disease
   diseases = data.get("Diseases")
   drugs = data.get("Drugs")
   for d in diseases:
@@ -14,6 +15,7 @@ def getTreatementsFor(Disease):
   result = [drug.get("DrName") if drug.get("DrID") in drugs_for else result for drug in drugs]
   return result
 def getBestTreatementFor(Disease):
+  #returns the best treatement for the given Disease
   diseases = data.get("Diseases")
   drugs = data.get("Drugs")
   for d in diseases:
@@ -40,3 +42,6 @@ def getDiseaseFrom(Symptoms):
 def getUsedForDiseases(Drug):
   #TODO
   return "Living"
+
+
+print(getBestTreatementFor('Myocardial Infarcation'))
