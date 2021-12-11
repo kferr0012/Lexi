@@ -14,6 +14,17 @@ from ask_sdk_core.handler_input import HandlerInput
 
 from ask_sdk_model import Response
 
+#Import dependencies to access S3 bucket
+import boto3
+
+client = boto3.client('s3') #low-level functional API
+resource = boto3.resource('s3') #high-level object-oriented API
+my_bucket = resource.Bucket('d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1') #subsitute this for your s3 bucket name.
+
+import pandas as pd
+obj = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/unique_may_treat.csv')
+grid_sizes = pd.read_csv(obj['Body'])
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
@@ -99,7 +110,7 @@ class FallbackIntentHandler(AbstractRequestHandler):
     def handle(self, handler_input):
         # type: (HandlerInput) -> Response
         logger.info("In FallbackIntentHandler")
-        speech = "Hmm, I'm not sure. You can say Hello or Help. What would you like to do?"
+        speech = "I didn't understand your input. Can you repeat that?"
         reprompt = "I didn't catch that. What can I help you with?"
 
         return handler_input.response_builder.speak(speech).ask(reprompt).response
@@ -176,17 +187,18 @@ class PrescribeMedicationIntentHandler(AbstractRequestHandler):
         #Dummy Response
         speak_output= "Disease detected " + diseaseType
         
-        
-        if diseaseType == "covid":
-            speak_output += ". There are no known medication for covid."
-        elif diseaseType == "cold":
-            speak_output += ". The best medication is Tylenol."
-        elif diseaseType == "influenza":
-            speak_output += ". The best medication is Tamiflu."
-        elif diseaseType == "myocardial infraction":
-            speak_output += ". The best medication is aspirin."
-        else:
-            speak_output += ". I am not sure what you asked."
+
+        #Manage payload    
+        try:
+
+            df = grid_sizes.loc[grid_sizes['STR1']==diseaseType,"STR2"]
+
+            treatment = df.iloc[0]
+            
+            speak_output += ". The recommended treatment is " + treatment + "."
+                
+        except:
+            speak_output += ". Couldn't find " + diseaseType + " in the database."
         
         return(
             handler_input.response_builder.speak(speak_output).response
