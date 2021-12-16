@@ -2,7 +2,7 @@
 
 
 #Import file
-file = open("./may_treat_data.txt","r")
+file = open("./may_treatData.txt","r")
 lines = file.readlines()
 
 
@@ -29,7 +29,7 @@ for i in range(0,len(lines)):
 
 #Prepare data to write into csv
 import csv
-fields = ["CUI1", "TS1", "STR1", "CUI2", "TS2", "STR2"]
+fields = ["CUI1","STR1","CUI2","STR2"]
 rows = []
 
 #Stores seen STR1
@@ -40,13 +40,18 @@ ht = {}
 #Populate the rows variable; use ht to prevent the storing of duplicates
 for line in lines:
     cur_line = line.split("|")
-    if cur_line[2] not in ht:
+    if cur_line[1] not in ht:
         rows.append(cur_line)
-        ht[cur_line[2]] = True
+        ht[cur_line[1]] = True
 
 # #Bench Test : print to make sure the rows were split correctly
 # for i in range(0,5):
 #     print(rows[i])
+
+#Remove punction from STR1 column
+import re
+for line_num in range(0,len(rows)):
+    rows[line_num][1] = re.sub(r'[^\w\s]', '', rows[line_num][1])
 
 
 filename = "unique_may_treat.csv"
@@ -56,3 +61,19 @@ with open(filename,'w') as csvfile:
     csvwriter = csv.writer(csvfile)
     csvwriter.writerow(fields)
     csvwriter.writerows(rows)
+
+
+#Prepare slot types file
+fields = ["STR1"]
+slot_types = []
+for line_num in range(0,len(rows)):
+    if [rows[line_num][1]+","] not in slot_types:
+        slot_types.append([rows[line_num][1]+","])
+
+
+filename = "slot_types.csv"
+
+with open(filename,'w') as csvfile:
+    csvwriter = csv.writer(csvfile)
+    # csvwriter.writerow(fields)
+    csvwriter.writerows(slot_types)
