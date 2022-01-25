@@ -1,8 +1,8 @@
-import pandas as pd
+# import pandas as pd
 
-disease_cui_df=pd.read_csv("../data/Lexi_data/Diseases_Cui.csv",sep="|")
-may_treat_df=pd.read_csv("../data/Lexi_data/May_Treat.csv",sep="|")
-pref_medicine_df=pd.read_csv("../data/Lexi_data/Pref-Medicine_Cui.csv",sep="|")
+# disease_cui_df=pd.read_csv("../data/Lexi_data/Diseases_Cui.csv",sep="|")
+# may_treat_df=pd.read_csv("../data/Lexi_data/May_Treat.csv",sep="|")
+# pref_medicine_df=pd.read_csv("../data/Lexi_data/Pref-Medicine_Cui.csv",sep="|")
 
 
 # Function 1
