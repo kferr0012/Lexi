@@ -22,8 +22,7 @@ resource = boto3.resource('s3') #high-level object-oriented API
 my_bucket = resource.Bucket('d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1') #subsitute this for your s3 bucket name.
 
 import pandas as pd
-obj = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/unique_may_treat.csv')
-grid_sizes = pd.read_csv(obj['Body'])
+
 
 #3 Files 
 #Disease CUI csv
