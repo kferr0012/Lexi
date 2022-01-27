@@ -1,0 +1,4152 @@
+CUI,STR
+C0000294,mesna
+C0000378,droxidopa
+C0000392,beta-alanine
+C0000473,4-aminobenzoic acid
+C0000477,dalfampridine
+C0000503,oxybate
+C0000598,ticlopidine hydrochloride
+C0000608,6-aminocaproic acid
+C0000618,mercaptopurine
+C0000946,acebutolol
+C0000970,acetaminophen
+C0000973,acetanilide
+C0000981,acetazolamide
+C0000983,acetic acid
+C0000992,acetohexamide
+C0001040,acetylcarnitine
+C0001041,acetylcholine
+C0001047,acetylcysteine
+C0001268,spectinomycin
+C0001275,activated charcoal
+C0001367,acyclovir
+C0001407,adenine
+C0001443,adenosine
+C0001465,adenosine monophosphate
+C0001480,adenosine triphosphate
+C0001636,epinephrine hydrochloride
+C0001655,corticotropin
+C0001714,polymyxin b sulfate
+C0001898,alanine
+C0001911,albendazole
+C0001927,albuterol
+C0001962,ethanol
+C0002083,allantoin
+C0002144,allopurinol
+C0002260,eflornithine
+C0002333,alprazolam
+C0002334,alprenolol
+C0002335,alprostadil
+C0002371,aluminum hydroxide
+C0002372,aluminum hydroxide gel
+C0002403,amantadine
+C0002404,amantadine sulfate
+C0002412,ambenonium
+C0002413,ambenonium chloride
+C0002435,amdinocillin
+C0002475,mitomycin
+C0002499,amikacin
+C0002501,amikacin sulfate
+C0002502,amiloride
+C0002555,aminoglutethimide
+C0002563,aminolevulinic acid
+C0002575,aminophylline
+C0002598,amiodarone
+C0002600,amitriptyline
+C0002615,ammonium chloride
+C0002640,amobarbital
+C0002644,amoxapine
+C0002645,amoxicillin
+C0002658,amphetamine
+C0002679,amphotericin b
+C0002680,ampicillin
+C0002697,inamrinone
+C0002711,amyl nitrite
+C0002860,androstenedione
+C0003009,angiotensin ii
+C0003143,antazoline
+C0003144,antazoline phosphate
+C0003166,anthralin
+C0003420,antipyrine
+C0003596,apomorphine
+C0003641,aprotinin
+C0003765,arginine
+C0003818,arsenic
+C0003830,trihexyphenidyl hydrochloride
+C0003968,ascorbic acid
+C0003993,asparaginase
+C0004011,aspartate magnesium hydrochloride
+C0004015,aspartic acid
+C0004037,aspergillus fumigatus
+C0004057,aspirin
+C0004147,atenolol
+C0004259,atropine
+C0004261,hyoscyamine sulfate
+C0004320,auranofin
+C0004475,azacitidine
+C0004482,azathioprine
+C0004499,azlocillin
+C0004521,aztreonam
+C0004599,bacitracin
+C0004609,baclofen
+C0004743,barbital
+C0004905,beclomethasone
+C0004906,beclomethasone dipropionate
+C0004954,belladonna alkaloids
+C0004963,diphenhydramine hydrochloride
+C0004975,bendroflumethiazide
+C0005013,benperidol
+C0005038,lindane
+C0005059,benzocaine
+C0005088,benzoyl peroxide
+C0005096,benzphetamine
+C0005098,benztropine
+C0005100,benzyl alcohol
+C0005116,bepridil
+C0005304,betaine
+C0005308,betamethasone
+C0005310,betamethasone acetate
+C0005311,betamethasone benzoate
+C0005320,betaxolol
+C0005404,bile salts
+C0005575,biotin
+C0005578,biperiden
+C0005632,bisacodyl
+C0005640,dicumarol
+C0005642,bismuth
+C0005739,bleomycin sulfate
+C0005740,bleomycin
+C0006020,boric acid
+C0006050,botulinum toxin type a
+C0006051,botulinum toxin type b
+C0006168,bretylium tosylate
+C0006213,bromazepam
+C0006230,bromocriptine
+C0006246,brompheniramine
+C0006376,bumetanide
+C0006388,levobunolol
+C0006400,bupivacaine
+C0006403,bupranolol
+C0006405,buprenorphine
+C0006462,buspirone
+C0006463,busulfan
+C0006464,butabarbital
+C0006466,butacaine
+C0006491,butorphanol
+C0006644,caffeine
+C0006668,calcitonin
+C0006674,calcitriol
+C0006681,calcium carbonate
+C0006686,calcium chloride
+C0006692,edetate calcium disodium
+C0006699,calcium gluconate
+C0006700,calcium glycerophosphate
+C0006710,calcium pantothenate
+C0006711,calcium phosphate
+C0006724,calcium valproate
+C0006809,camphor
+C0006837,candida albicans
+C0006863,cannabidiol
+C0006886,cantharidin
+C0006920,capreomycin sulfate
+C0006931,capsaicin
+C0006938,captopril
+C0006945,carbachol
+C0006949,carbamazepine
+C0006976,carbenicillin
+C0006982,carbidopa
+C0007047,carboprost
+C0007068,carboxymethylcellulose
+C0007072,glucarpidase
+C0007248,carisoprodol
+C0007257,carmustine
+C0007258,carnitine
+C0007299,carteolol
+C0007300,articaine hydrochloride
+C0007332,caseins
+C0007537,cefaclor
+C0007538,cefadroxil
+C0007541,cefamandole
+C0007545,cefatrizine
+C0007546,cefazolin
+C0007550,cefmetazole
+C0007552,cefoperazone
+C0007554,cefotaxime
+C0007555,cefotetan
+C0007556,cefotiam
+C0007557,cefoxitin
+C0007558,cefsulodin
+C0007559,ceftazidime
+C0007560,ceftizoxime
+C0007561,ceftriaxone
+C0007562,cefuroxime
+C0007716,cephalexin
+C0007735,cephalothin
+C0007737,cephapirin
+C0007738,cephradine
+C0007955,charcoal
+C0008161,chloral hydrate
+C0008163,chlorambucil
+C0008168,chloramphenicol
+C0008174,clorazepate
+C0008183,chlorcyclizine
+C0008188,chlordiazepoxide
+C0008196,chlorhexidine
+C0008197,chlorhexidine acetate
+C0008199,chlorhexidine hydrochloride
+C0008221,chlormethiazole
+C0008223,chlormezanone
+C0008241,proguanil
+C0008269,chloroquine
+C0008273,chlorothiazide
+C0008275,chlorotrianisene
+C0008280,chlorphenesin
+C0008281,chlorpheniramine
+C0008286,chlorpromazine
+C0008287,chlorpropamide
+C0008290,chlorprothixene
+C0008294,chlorthalidone
+C0008296,chlorzoxazone
+C0008318,cholecalciferol
+C0008377,cholesterol
+C0008402,cholestyramine resin
+C0008405,choline
+C0008466,chondroitin sulfates
+C0008574,chromium
+C0008777,cilastatin
+C0008783,cimetidine
+C0008806,cinoxacin
+C0008809,ciprofloxacin
+C0008838,cisplatin
+C0008845,citalopram
+C0008846,prilocaine hydrochloride
+C0008929,clemastine
+C0008947,clindamycin
+C0008992,clobetasol
+C0008996,clofazimine
+C0009002,clofibrate
+C0009008,clomiphene
+C0009010,clomipramine
+C0009011,clonazepam
+C0009014,clonidine
+C0009025,clopamide
+C0009033,clorazepate dipotassium
+C0009053,collagenase clostridium histolyticum
+C0009073,clotiazepam
+C0009074,clotrimazole
+C0009077,cloxacillin
+C0009079,clozapine
+C0009137,coal tar
+C0009148,cobalt
+C0009170,cocaine
+C0009213,cod liver oil
+C0009214,codeine
+C0009217,codeine phosphate
+C0009262,colchicine
+C0009279,colestipol
+C0009315,colistimethate
+C0009975,copper gluconate
+C0010137,cortisone
+C0010523,cyclacillin
+C0010525,cyclandelate
+C0010547,cyclizine
+C0010583,cyclophosphamide
+C0010590,cycloserine
+C0010592,cyclosporine
+C0010620,cyproheptadine
+C0010648,cysteamine
+C0010711,cytarabine
+C0010927,dacarbazine
+C0010934,dactinomycin
+C0010961,danazol
+C0010976,dantrolene
+C0010977,dantrolene sodium
+C0010980,dapsone
+C0011015,daunorubicin
+C0011145,deferoxamine
+C0011148,deferoxamine mesylate
+C0011185,prasterone
+C0011276,demeclocycline
+C0011279,nordazepam
+C0011685,desipramine
+C0011689,deslanoside
+C0011701,desmopressin
+C0011705,desonide
+C0011707,desoximetasone
+C0011777,dexamethasone
+C0011779,dexamethasone isonicotinate
+C0011782,phenylpropanolamine hydrochloride
+C0011786,dexfenfluramine
+C0011793,dextran 40
+C0011795,dextran 70
+C0011796,dextran 75
+C0011810,dextroamphetamine sulfate
+C0011812,dextroamphetamine
+C0011816,dextromethorphan
+C0011824,dextrothyroxine
+C0012010,diazepam
+C0012022,diazoxide
+C0012030,dibenzepin
+C0012050,dibucaine
+C0012086,dichlorphenamide
+C0012091,diclofenac
+C0012093,dicloxacillin
+C0012125,dicyclomine
+C0012132,zalcitabine
+C0012133,didanosine
+C0012145,dienestrol
+C0012191,diethylcarbamazine
+C0012201,diethylpropion
+C0012203,diethylstilbestrol
+C0012228,diflunisal
+C0012258,digitoxin
+C0012265,digoxin
+C0012271,dihydralazine
+C0012288,dihydroergocornine
+C0012289,dihydroergocristine
+C0012290,dihydroergocryptine
+C0012291,dihydroergotamine
+C0012294,dihydroergotoxine
+C0012306,hydromorphone
+C0012319,dihydrotachysterol
+C0012322,dihydroxyacetone
+C0012341,iodoquinol
+C0012373,diltiazem
+C0012381,dimenhydrinate
+C0012383,dimercaprol
+C0012384,succimer
+C0012472,dinoprostone
+C0012522,diphenhydramine
+C0012525,diphenoxylate
+C0012547,diphtheria antitoxin
+C0012694,cromolyn sodium
+C0012695,edetate disodium
+C0012702,disopyramide
+C0012772,disulfiram
+C0012963,dobutamine
+C0013030,dopamine
+C0013065,dothiepin
+C0013084,doxapram
+C0013085,doxepin
+C0013089,doxorubicin
+C0013090,doxycycline
+C0013092,doxylamine
+C0013136,droperidol
+C0013340,dydrogesterone
+C0013360,dyphylline
+C0013530,echothiophate iodide
+C0013547,econazole
+C0013615,edrophonium
+C0013617,edrophonium chloride
+C0013618,edetic acid
+C0013974,emetine
+C0014025,enalapril
+C0014027,enalaprilat
+C0014277,enflurane
+C0014310,enoxacin
+C0014479,ephedrine
+C0014563,epinephrine
+C0014582,epirubicin
+C0014695,ergocalciferol
+C0014704,ergonovine
+C0014708,"ergoloid mesylates, usp"
+C0014710,ergotamine
+C0014758,erythrityl tetranitrate
+C0014806,erythromycin
+C0014809,erythromycin estolate
+C0014810,erythromycin ethylsuccinate
+C0014813,erythromycin phosphate
+C0014892,estazolam
+C0014912,estradiol
+C0014921,estramustine
+C0014922,estramustine phosphate sodium
+C0014938,"estrogens, conjugated (usp)"
+C0014939,estrogens
+C0014942,estrone
+C0014962,ethacrynate sodium
+C0014963,ethacrynic acid
+C0014964,ethambutol
+C0014987,ethchlorvynol
+C0014994,ethyl ether
+C0015011,ethinyl estradiol
+C0015020,amifostine
+C0015021,ethionamide
+C0015042,profenamine
+C0015043,ethosuximide
+C0015046,ethotoin
+C0015058,ethyl chloride
+C0015099,ethylestrenol
+C0015117,ethynodiol diacetate
+C0015120,etidocaine
+C0015121,etidronic acid
+C0015131,etomidate
+C0015133,etoposide
+C0015137,etretinate
+C0015153,eugenol
+C0015491,factor ix
+C0015502,factor vii
+C0015505,factor viia
+C0015506,factor viii
+C0015518,factor x
+C0015528,factor xiii
+C0015620,famotidine
+C0015689,omega-3 fatty acids
+C0015772,felodipine
+C0015821,fenbendazole
+C0015824,fendiline
+C0015827,fenfluramine
+C0015837,fenoprofen
+C0015840,fenoterol
+C0015846,fentanyl
+C0016006,fibrinogen
+C0016157,fish oils
+C0016225,flavoxate
+C0016229,flecainide
+C0016267,floxacillin
+C0016277,fluconazole
+C0016278,flucytosine
+C0016280,fludrocortisone
+C0016293,flumazenil
+C0016294,flumethasone
+C0016296,flunitrazepam
+C0016298,fluocinolone acetonide
+C0016299,fluocinonide
+C0016301,fluocortolone
+C0016302,fluocortolone caproate
+C0016304,fluocortolone pivalate
+C0016330,fluorine
+C0016343,floxuridine
+C0016351,fluorometholone
+C0016360,fluorouracil
+C0016365,fluoxetine
+C0016366,fluoxymesterone
+C0016367,flupenthixol
+C0016368,fluphenazine
+C0016369,fluprednisolone
+C0016374,flurandrenolide
+C0016375,flurazepam
+C0016377,flurbiprofen
+C0016383,fluspirilene
+C0016384,flutamide
+C0016388,riboflavin 5'-phosphate
+C0016410,folic acid
+C0016564,formaldehyde
+C0016610,fosfomycin
+C0016855,furazolidone
+C0016860,furosemide
+C0016967,galantamine
+C0016986,gallopamil
+C0017066,ganciclovir
+C0017245,gemfibrozil
+C0017440,gentian violet
+C0017449,oxytetracycline hydrochloride
+C0017628,glyburide
+C0017642,glipizide
+C0017687,glucagon
+C0017718,glucosamine
+C0017720,glucosamine sulfate
+C0017725,glucose
+C0017734,dextrose monohydrate
+C0017797,glutamine
+C0017814,glutaral
+C0017845,glutethimide
+C0017861,glycerin
+C0017887,nitroglycerin
+C0017890,glycine
+C0017970,glycopyrrolate
+C0018026,gold
+C0018033,aurothioglucose
+C0018034,gold sodium thiomalate
+C0018062,chorionic gonadotropin
+C0018165,gramicidin
+C0018242,griseofulvin
+C0018305,guaifenesin
+C0018312,guanabenz
+C0018318,guanethidine
+C0018513,halcinonide
+C0018546,haloperidol
+C0018549,halothane
+C0018880,helium
+C0018988,hemin
+C0019134,heparin
+C0019435,hexachlorophene
+C0019453,altretamine
+C0019588,histamine
+C0020196,hyaluronic acid
+C0020197,hyaluronidase
+C0020223,hydralazine
+C0020261,hydrochlorothiazide
+C0020264,hydrocodone
+C0020268,hydrocortisone
+C0020273,hydroflumethiazide
+C0020281,hydrogen peroxide
+C0020306,hydroquinone
+C0020316,hydroxocobalamin
+C0020336,hydroxychloroquine
+C0020352,hetastarch
+C0020388,hydroxyproline
+C0020402,hydroxyurea
+C0020404,hydroxyzine
+C0020406,hygromycin b
+C0020600,hypochlorous acid
+C0020740,ibuprofen
+C0020752,ichthammol
+C0020789,idarubicin
+C0020811,idoxuridine
+C0020823,ifosfamide
+C0020852,immunoglobulin g
+C0020933,imipenem
+C0020934,imipramine
+C0021186,indapamide
+C0021246,indomethacin
+C0021734,interferon alfa-2a
+C0021735,interferon alfa-2b
+C0021741,interferon gamma-1b
+C0021968,iodine
+C0021978,clioquinol
+C0022028,iopanoic acid
+C0022046,ipecac
+C0022092,iron-dextran complex
+C0022154,isocarboxazid
+C0022176,isoetharine
+C0022177,isoetharine mesylate
+C0022180,isoflurane
+C0022181,isoflurophate
+C0022209,isoniazid
+C0022233,isopropamide iodide
+C0022245,isoproterenol
+C0022251,isosorbide
+C0022252,isosorbide dinitrate
+C0022265,isotretinoin
+C0022267,isoxsuprine
+C0022322,ivermectin
+C0022419,josamycin
+C0022487,kanamycin
+C0022489,kanamycin a
+C0022499,kaolin
+C0022516,karaya gum
+C0022614,ketamine
+C0022625,ketoconazole
+C0022635,ketoprofen
+C0022642,ketotifen
+C0022860,labetalol
+C0022939,lactobacillus acidophilus
+C0022940,lactobacillus casei
+C0022957,lactulose
+C0023044,propiomazine hydrochloride
+C0023413,leucovorin
+C0023556,levamisole
+C0023570,levodopa
+C0023586,levorphanol
+C0023610,gonadorelin
+C0023660,lidocaine
+C0023726,lincomycin
+C0023870,lithium
+C0023972,lomustine
+C0023992,loperamide
+C0024002,lorazepam
+C0024027,lovastatin
+C0024056,loxapine
+C0024057,loxapine succinate
+C0024337,lysine
+C0024339,lysine acetate
+C0024340,lysine hydrochloride
+C0024349,ethopropazine hydrochloride
+C0024452,mafenide
+C0024453,mafenide acetate
+C0024467,magnesium
+C0024472,magnesium chloride
+C0024476,magnesium hydroxide
+C0024477,magnesium oxide
+C0024480,magnesium sulfate
+C0024547,malathion
+C0024706,manganese
+C0024730,mannitol
+C0024778,maprotiline
+C0024977,mazindol
+C0025023,mebendazole
+C0025029,mecamylamine
+C0025033,mechlorethamine
+C0025039,meclizine
+C0025041,meclofenamate sodium
+C0025051,medazepam
+C0025147,medroxyprogesterone
+C0025152,mefenamic acid
+C0025153,mefloquine
+C0025175,megestrol
+C0025179,meglumine
+C0025219,melatonin
+C0025241,melphalan
+C0025242,memantine
+C0025270,vitamin k3
+C0025368,menthol
+C0025376,meperidine
+C0025381,mephenytoin
+C0025382,mephobarbital
+C0025384,mepivacaine
+C0025386,meprobamate
+C0025497,mesoridazine
+C0025573,metaproterenol sulfate
+C0025575,metaraminol
+C0025576,metaraminol bitartrate
+C0025598,metformin
+C0025605,methadone
+C0025611,methamphetamine
+C0025624,methantheline
+C0025625,methapyrilene
+C0025627,methaqualone
+C0025629,metharbital
+C0025631,methazolamide
+C0025638,methenamine
+C0025643,methicillin
+C0025644,methimazole
+C0025659,methocarbamol
+C0025677,methotrexate
+C0025678,methotrimeprazine
+C0025684,methoxsalen
+C0025696,methyclothiazide
+C0025729,methylcellulose
+C0025741,methyldopa
+C0025746,methylene blue
+C0025760,methylergonovine
+C0025810,methylphenidate
+C0025815,methylprednisolone
+C0025826,methyltestosterone
+C0025840,methyprylon
+C0025842,methysergide
+C0025853,metoclopramide
+C0025854,metolazone
+C0025859,metoprolol
+C0025872,metronidazole
+C0025887,mexiletine
+C0025893,mezlocillin
+C0025912,mianserin
+C0025942,miconazole
+C0026056,midazolam
+C0026078,midodrine
+C0026088,mifepristone
+C0026156,mineral oil
+C0026186,minocycline hydrochloride
+C0026187,minocycline
+C0026196,minoxidil
+C0026202,miocamycin
+C0026234,plicamycin
+C0026256,mitotane
+C0026259,mitoxantrone
+C0026289,sotalol hydrochloride
+C0026388,molindone
+C0026402,molybdenum
+C0026549,morphine
+C0026651,moxalactam
+C0026933,mycophenolic acid
+C0027235,ipratropium
+C0027302,nadolol
+C0027324,nafcillin
+C0027348,nalbuphine
+C0027353,nalidixic acid
+C0027358,naloxone
+C0027360,naltrexone
+C0027368,nandrolone
+C0027373,naphazoline
+C0027396,naproxen
+C0027444,natamycin
+C0027519,tobramycin sulfate
+C0027603,neomycin
+C0027607,neomycin sulfate
+C0027679,neostigmine
+C0027680,neostigmine methylsulfate
+C0027780,netilmicin
+C0027996,niacin
+C0028005,nicardipine
+C0028017,niclosamide
+C0028027,niacinamide
+C0028040,nicotine
+C0028066,nifedipine
+C0028094,nimodipine
+C0028095,nimorazole
+C0028116,nisoldipine
+C0028126,nitrazepam
+C0028127,nitrendipine
+C0028128,nitric oxide
+C0028156,nitrofurantoin
+C0028157,nitrofurazone
+C0028158,nitrogen
+C0028215,nitrous oxide
+C0028333,norepinephrine bitartrate
+C0028351,norepinephrine
+C0028356,norethindrone
+C0028360,norethynodrel
+C0028365,norfloxacin
+C0028369,norgestrienone
+C0028403,octopamine
+C0028420,nortriptyline
+C0028426,noscapine
+C0028735,nylidrin
+C0028741,nystatin
+C0028833,octreotide
+C0028902,ofloxacin
+C0028906,clove oil
+C0028923,oleandomycin
+C0028978,omeprazole
+C0029112,opium
+C0029193,metaproterenol
+C0029274,ornidazole
+C0029309,orphenadrine
+C0029310,orphenadrine citrate
+C0029983,oxacillin
+C0029994,oxamniquine
+C0029995,oxandrolone
+C0029997,oxazepam
+C0030040,oxprenolol
+C0030049,oxycodone
+C0030054,oxygen
+C0030071,oxymetazoline
+C0030072,oxymetholone
+C0030073,oxymorphone
+C0030092,oxytetracycline
+C0030095,oxytocin
+C0030125,aminosalicylic acid
+C0030304,pancreatin
+C0030342,pantothenic acid
+C0030350,papaverine
+C0030438,paraldehyde
+C0030520,parathyroid hormone
+C0030576,paromomycin
+C0030771,pefloxacin
+C0030800,pemoline
+C0030812,penbutolol
+C0030815,penfluridol
+C0030817,penicillamine
+C0030827,penicillin g
+C0030829,penicillin g benzathine
+C0030830,penicillin g procaine
+C0030840,penicillin v
+C0030858,pentaerythritol tetranitrate
+C0030863,pentamidine
+C0030864,pentamidine isethionate
+C0030873,pentazocine
+C0030883,pentobarbital
+C0030896,pentostatin
+C0030899,pentoxifylline
+C0030969,perazine
+C0031007,pergolide
+C0031008,pergolide mesylate
+C0031184,perphenazine
+C0031364,phenacetin
+C0031379,phenazopyridine
+C0031392,phenelzine
+C0031393,phenelzine sulfate
+C0031408,pheniramine
+C0031411,phenmetrazine
+C0031412,phenobarbital
+C0031441,phenoxybenzamine
+C0031444,phenprocoumon
+C0031447,phentermine
+C0031448,phentolamine
+C0031453,phenylalanine
+C0031463,phenylbutazone
+C0031469,phenylephrine
+C0031470,phenylephrine hydrochloride
+C0031495,phenylpropanolamine
+C0031507,phenytoin
+C0031617,lecithin
+C0031849,physostigmine
+C0031862,vitamin k1
+C0031923,pilocarpine
+C0031935,pimozide
+C0031937,pindolol
+C0031954,piperacetazine
+C0031955,piperacillin
+C0031957,piperazine
+C0031962,piperonyl butoxide
+C0031965,pipobroman
+C0031968,pipothiazine
+C0031978,pirenzepine
+C0031979,piribedil
+C0031990,piroxicam
+C0032032,pivampicillin
+C0032140,plasminogen
+C0032143,alteplase
+C0032333,podophyllin
+C0032334,podofilox
+C0032477,polyethylene glycol 300
+C0032478,polyethylene glycol 400
+C0032483,polyethylene glycols
+C0032535,polymyxin b
+C0032613,polythiazide
+C0032825,potassium chloride
+C0032831,potassium iodide
+C0032856,povidone
+C0032857,povidone-iodine
+C0032896,practolol
+C0032910,prazepam
+C0032911,praziquantel
+C0032912,prazosin
+C0032950,prednisolone
+C0032952,prednisone
+C0033124,prilocaine
+C0033126,primaquine
+C0033128,primaquine phosphate
+C0033148,primidone
+C0033209,probenecid
+C0033215,probucol
+C0033216,procainamide
+C0033218,procaine
+C0033223,procarbazine
+C0033228,fenofibrate
+C0033229,prochlorperazine
+C0033230,prochlorperazine edisylate
+C0033231,prochlorperazine maleate
+C0033254,procyclidine
+C0033308,progesterone
+C0033399,promazine
+C0033405,promethazine
+C0033429,propafenone
+C0033447,propantheline
+C0033448,propantheline bromide
+C0033459,periciazine
+C0033473,propiomazine
+C0033487,propofol
+C0033488,propolis
+C0033493,propoxyphene
+C0033495,propoxyphene napsylate
+C0033497,propranolol
+C0033508,propylhexedrine
+C0033511,propylthiouracil
+C0033567,epoprostenol
+C0033602,protamine sulfate (usp)
+C0033603,protamines
+C0033743,protriptyline
+C0033798,pseudoephedrine
+C0033979,psyllium
+C0034235,pyrantel
+C0034237,pyrantel pamoate
+C0034238,pyrantel tartrate
+C0034239,pyrazinamide
+C0034245,pyrethrins
+C0034261,pyridostigmine
+C0034262,pyridostigmine bromide
+C0034266,pyridoxal phosphate
+C0034272,pyridoxine
+C0034282,pyrilamine
+C0034283,pyrimethamine
+C0034392,quercetin
+C0034403,quinacrine
+C0034410,quinestrol
+C0034414,quinidine
+C0034415,quinidine sulfate
+C0034417,quinine
+C0034420,quinine bisulfate
+C0034421,quinine hydrochloride
+C0034422,quinine sulfate
+C0034504,racemethionine
+C0034665,ranitidine
+C0035167,rescinnamine
+C0035179,reserpine
+C0035525,ribavirin
+C0035527,riboflavin
+C0035608,rifampin
+C0035609,rifamycins
+C0035629,rimantadine
+C0035891,roxithromycin
+C0036071,salicylamide
+C0036075,salicylate
+C0036078,sulfasalazine
+C0036079,salicylic acid
+C0036442,scopolamine
+C0036444,scopolamine hydrobromide
+C0036516,secobarbital
+C0036579,selegiline
+C0036581,selenium
+C0037129,silver nitrate
+C0037134,silver sulfadiazine
+C0037138,simethicone
+C0037479,amobarbital sodium
+C0037487,carboxymethylcellulose sodium
+C0037490,cephalothin sodium
+C0037494,sodium chloride
+C0037496,cloxacillin sodium
+C0037507,etidronate disodium
+C0037508,sodium fluoride
+C0037512,gold sodium thiosulfate
+C0037513,heparin sodium
+C0037518,sodium hypochlorite
+C0037521,sodium iodide
+C0037530,sodium morrhuate
+C0037531,nafcillin sodium
+C0037533,sodium nitroprusside
+C0037536,oxacillin sodium
+C0037537,sodium oxybate
+C0037540,penicillin g sodium
+C0037548,riboflavin 5'-phosphate sodium
+C0037549,sodium salicylate
+C0037556,sodium tetradecyl sulfate
+C0037567,sodium valproate
+C0037688,sorbitol
+C0037707,sotalol
+C0037732,soybean oil
+C0037982,spironolactone
+C0038143,stannous fluoride
+C0038418,streptokinase
+C0038425,streptomycin
+C0038426,streptomycin sulfate
+C0038432,streptozocin
+C0038633,sucralfate
+C0038665,sulbactam
+C0038666,sulbenicillin
+C0038670,sulfacetamide
+C0038675,sulfadiazine
+C0038679,sulfadoxine
+C0038687,sulfamethizole
+C0038689,sulfamethoxazole
+C0038702,sulfanilamide
+C0038710,sulfapyridine
+C0038722,sulfathiazole
+C0038742,sulfinpyrazone
+C0038745,sulfisoxazole
+C0038746,sulfisoxazole diolamine
+C0038774,sulfur
+C0038792,sulindac
+C0039245,tacrine
+C0039266,talampicillin
+C0039267,talc
+C0039286,tamoxifen
+C0039468,temazepam
+C0039512,teniposide
+C0039542,terbutaline
+C0039543,terbutaline sulfate
+C0039600,testolactone
+C0039601,testosterone
+C0039607,testosterone propionate
+C0039623,tetrabenazine
+C0039629,tetracaine
+C0039644,tetracycline
+C0039663,dronabinol
+C0039736,thalidomide
+C0039763,theobromine
+C0039771,theophylline
+C0039832,thiabendazole
+C0039840,thiamine
+C0039844,thiamine mononitrate
+C0039848,thiamine pyrophosphate
+C0039855,thiamylal
+C0039865,thiethylperazine
+C0039867,thimerosal
+C0039871,thiotepa
+C0039902,thioguanine
+C0039925,thiopental
+C0039943,thioridazine
+C0039955,thiothixene
+C0040018,thrombin
+C0040096,thymol
+C0040123,thyroglobulin
+C0040134,thyroid (usp)
+C0040165,levothyroxine
+C0040193,ticarcillin
+C0040207,ticlopidine
+C0040233,timolol
+C0040263,tinidazole
+C0040341,tobramycin
+C0040372,tolazamide
+C0040373,tolazoline
+C0040374,tolbutamide
+C0040377,tolmetin
+C0040379,tolnaftate
+C0040602,tragacanth
+C0040610,tramadol
+C0040613,tranexamic acid
+C0040778,tranylcypromine
+C0040779,trapidil
+C0040805,trazodone
+C0040845,tretinoin
+C0040864,triamcinolone
+C0040866,triamcinolone acetonide
+C0040867,triamcinolone diacetate
+C0040869,triamterene
+C0040879,triazolam
+C0040899,trichlormethiazide
+C0040958,triclosan
+C0040976,trientine
+C0040979,trifluoperazine
+C0040987,trifluridine
+C0040988,trifluperidol
+C0040989,triflupromazine
+C0041009,trihexyphenidyl
+C0041014,liothyronine
+C0041030,metipranolol
+C0041031,trimeprazine
+C0041038,trimethadione
+C0041041,trimethoprim
+C0041056,trimipramine
+C0041086,trioxsalen
+C0041090,tripelennamine
+C0041098,triprolidine
+C0041165,troleandomycin
+C0041175,tromethamine
+C0041190,tropicamide
+C0041236,trypsin
+C0041249,tryptophan
+C0041485,tyrosine
+C0041536,ubidecarenone
+C0041660,undecylenic acid
+C0041920,uracil mustard
+C0041942,urea
+C0041984,uridine
+C0042071,urokinase
+C0042105,ursodiol
+C0042291,valproic acid
+C0042313,vancomycin
+C0042523,verapamil
+C0042646,vidarabine
+C0042665,viloxazine
+C0042670,vinblastine
+C0042671,vinblastine sulfate
+C0042679,vincristine
+C0042680,vincristine sulfate
+C0042839,vitamin a
+C0042845,vitamin b12
+C0042874,vitamin e
+C0042878,vitamin k
+C0042971,von willebrand factor
+C0043031,warfarin
+C0043355,xipamide
+C0043443,ketotifen fumarate
+C0043474,zidovudine
+C0043483,bacitracin zinc
+C0043491,zinc oxide
+C0043513,zolazepam
+C0043572,glucomannan
+C0043603,pamidronate
+C0043668,doxercalciferol
+C0043832,deferiprone
+C0044971,hydroxyprogesterone caproate (usp)
+C0045010,17-alpha-hydroxyprogesterone
+C0045093,gemcitabine
+C0046948,amifampridine
+C0048038,apraclonidine
+C0048044,vigabatrin
+C0048318,mequinol
+C0048470,argatroban
+C0048504,fomepizole
+C0048897,sapropterin
+C0049065,decitabine
+C0049506,mirtazapine
+C0050175,adefovir
+C0050393,acarbose
+C0050403,aceclofenac
+C0050408,acemannan
+C0050451,acetohydroxamic acid
+C0050458,acetophenazine
+C0050559,acitretin
+C0050940,lansoprazole
+C0050962,monobenzone
+C0051113,alclometasone dipropionate
+C0051150,alfuzosin
+C0051156,alginic acid
+C0051241,aprobarbital
+C0051510,aluminum acetate
+C0051511,aluminum chlorohydrate
+C0051512,aluminum chloride hexahydrate
+C0051515,aluminum magnesium silicate
+C0051556,amcinonide
+C0051696,amlodipine
+C0051721,ammonium molybdate
+C0051809,anagrelide
+C0051919,anisindione
+C0051923,octotropine methylbromide
+C0052300,peanut oil
+C0052327,arginine aspartate
+C0052416,arsenic trioxide
+C0052429,artemether
+C0052585,sparfloxacin
+C0052657,attapulgite
+C0052759,azatadine
+C0052761,azelaic acid
+C0052762,azelastine
+C0052772,azidocillin
+C0052796,azithromycin
+C0052865,bacampicillin
+C0052882,bacitracin a
+C0052940,balsalazide
+C0052944,bambuterol
+C0052993,basic aluminum carbonate gel
+C0053091,benazepril
+C0053154,cloxacillin benzathine
+C0053155,penicillin v benzathine
+C0053156,benztropine mesylate
+C0053229,benzonatate
+C0053230,benznidazole
+C0053245,benzthiazide
+C0053284,benzquinamide
+C0053523,betamethasone dipropionate
+C0053526,bethanechol
+C0053570,bifonazole
+C0053663,biperiden lactate
+C0053789,bismuth subcarbonate
+C0053790,bismuth subgallate
+C0053791,bismuth subnitrate
+C0053792,bismuth subsalicylate
+C0053799,bisoprolol
+C0053817,bitolterol
+C0053881,pemirolast
+C0053882,cefprozil
+C0053941,bopindolol
+C0054015,nesiritide
+C0054040,bretylium
+C0054094,bromfenac
+C0054120,bromodiphenhydramine
+C0054138,bromperidol
+C0054201,budesonide
+C0054202,budipine
+C0054207,buflomedil
+C0054234,butalbital
+C0054249,butobarbital
+C0054259,butoconazole
+C0054302,butylparaben
+C0054340,acrivastine
+C0054409,cadexomer iodine
+C0054436,caffeine citrate
+C0054452,heparin calcium
+C0054480,calcium polycarbophil
+C0054635,caramiphen
+C0054636,carazolol
+C0054668,carbetapentane
+C0054672,carbinoxamine
+C0054721,carboprost tromethamine
+C0054827,carprofen
+C0054836,carvedilol
+C0054995,cefamandole nafate
+C0055003,cefepime
+C0055004,cefetamet
+C0055007,cefodizime
+C0055008,ceforanide
+C0055011,cefpodoxime
+C0055014,ceftibuten
+C0055015,cefuroxime axetil
+C0055021,celiprolol
+C0055147,cetirizine
+C0055337,chloramphenicol palmitate
+C0055338,chloramphenicol stearate
+C0055339,chloramphenicol succinate
+C0055361,chlorhexidine gluconate
+C0055373,clomethiazole edisylate
+C0055389,acetylcholine chloride
+C0055443,chloroprocaine
+C0055447,chloroquine phosphate
+C0055461,chloroxine
+C0055467,chlorphenesin carbamate
+C0055568,cholic acid
+C0055573,choline salicylate
+C0055578,oxtriphylline
+C0055711,ciclopirox
+C0055723,cilazapril
+C0055729,cilostazol
+C0055819,citric acid
+C0055856,clarithromycin
+C0055860,clavulanic acid
+C0055877,clidinium
+C0055880,clindamycin palmitate
+C0055881,clindamycin phosphate
+C0055891,clobazam
+C0055895,clobetasol propionate
+C0055899,clocortolone
+C0055900,clocortolone pivalate
+C0055923,clomocycline
+C0055930,cloperastine
+C0055936,cloprednol
+C0056057,cocoa butter
+C0056096,colchiceine
+C0056387,cortisol succinate
+C0056391,cortisone acetate
+C0056519,crotamiton
+C0056593,cupric chloride
+C0056598,cupric oxide
+C0056732,cyclobenzaprine
+C0056831,cyclothiazide
+C0057143,dapiprazole
+C0057144,daptomycin
+C0057257,defibrotide
+C0057258,deflazacort
+C0057361,demecarium bromide
+C0057420,desoxycorticosterone pivalate
+C0057558,desogestrel
+C0057598,dexamethasone acetate
+C0057603,dexamethasone trimethyl acetate
+C0057605,dexbrompheniramine
+C0057606,dexchlorpheniramine
+C0057621,dextranomer
+C0057626,dezocine
+C0057796,dibromopropamidine isethionate
+C0057799,dibrompropamidine
+C0057916,dienogest
+C0057981,difenoxin
+C0057992,diflorasone diacetate
+C0058012,digitalin
+C0058056,dihydrocodeine
+C0058135,dihydroxyaluminum sodium carbonate
+C0058181,diloxanide furoate
+C0058371,diphenidol
+C0058415,dipivefrin
+C0058445,dirithromycin
+C0058677,domiphen
+C0058731,doxycycline hyclate
+C0058733,doxylamine succinate
+C0058762,drotaverin
+C0058831,dyclonine
+C0059446,epinephrine sulfate
+C0059447,epinephryl borate
+C0059514,ergonovine maleate
+C0059561,erythromycin gluceptate
+C0059562,erythromycin lactobionate
+C0059566,erythromycin stearate
+C0059610,estradiol cypionate
+C0059623,estradiol valerate
+C0059696,ethanolamine
+C0059699,ethanolamine oleate
+C0059714,ethinamate
+C0059725,ethoheptazine
+C0059865,etodolac
+C0059871,etofylline
+C0059874,etoposide phosphate
+C0059985,fludarabine
+C0060135,felbamate
+C0060179,fenofibric acid
+C0060180,fenoldopam
+C0060228,ferric ammonium citrate
+C0060231,ferric citrate
+C0060237,ferric maltol
+C0060240,ferric oxide
+C0060241,iron sucrose
+C0060245,ferric subsulfate solution
+C0060246,ferric sulfate
+C0060274,ferumoxytol
+C0060276,ferrous fumarate
+C0060277,ferrous gluconate
+C0060282,ferrous sulfate
+C0060389,finasteride
+C0060400,cefixime
+C0060405,cefdinir
+C0060470,flosequinan
+C0060477,flubendazole
+C0060483,fludarabine phosphate
+C0060494,flumethasone pivalate
+C0060501,flunisolide
+C0060507,fluocinolone
+C0060578,flupenthixol decanoate
+C0060580,fluphenazine decanoate
+C0060657,formoterol
+C0060692,fosfestrol
+C0060787,follitropin beta
+C0060926,gabapentin
+C0061008,gallium nitrate
+C0061323,glimepiride
+C0061347,calcium glubionate
+C0061472,glutamic acid
+C0061851,ondansetron
+C0061938,guanadrel
+C0062092,halazepam
+C0062103,haloperidol decanoate
+C0062106,haloprogin
+C0062587,hetacillin
+C0062740,histamine phosphate
+C0062922,homatropine
+C0062923,homatropine methylbromide
+C0062986,cefpirome
+C0063033,huperzine a
+C0063041,leflunomide
+C0063076,hydrocortisone probutate
+C0063077,hydrocortisone acetate
+C0063079,hydrocortisone valerate
+C0063131,hydroxyethyl cellulose
+C0063188,hydroxypropyl cellulose (type h)
+C0063242,hypromellose
+C0063252,desflurane
+C0063750,iodinated glycerol
+C0063953,isoconazole
+C0064079,isosorbide mononitrate
+C0064113,itraconazole
+C0064165,josamycin propionate
+C0064263,emedastine
+C0064325,ketoprofen lysine
+C0064326,ketorolac tromethamine
+C0064568,lacidipine
+C0064582,lactic acid
+C0064636,lamotrigine
+C0064870,levocabastine
+C0064906,nafarelin
+C0065023,fidaxomicin
+C0065091,lithium orotate
+C0065148,lodoxamide tromethamine
+C0065152,lofexidine
+C0065162,lomefloxacin
+C0065180,loratadine
+C0065185,lormetazepam
+C0065295,loracarbef
+C0065374,lisinopril
+C0065512,magaldrate
+C0065517,magnesium carbonate
+C0065527,magnesium phosphate
+C0065533,magnesium trisilicate
+C0065538,magnolol
+C0065642,manganese chloride
+C0065644,manganese dioxide
+C0065646,manganese monoxide
+C0065649,manganese sulfate
+C0065656,manidipine
+C0065767,calcipotriene
+C0065818,dolasetron mesylate
+C0065844,mecobalamin
+C0065864,medroxyprogesterone acetate
+C0065865,medrysone
+C0065879,megestrol acetate
+C0065932,menadiol
+C0065961,mepindolol
+C0065972,mequitazine
+C0066005,meropenem
+C0066082,methampicillin
+C0066101,methdilazine
+C0066105,methenamine hippurate
+C0066282,methyl salicylate
+C0066411,methylnaltrexone
+C0066430,methylprednisolone sodium phosphate
+C0066522,ocriplasmin
+C0066529,milnacipran hydrochloride
+C0066531,midecamycin
+C0066535,miglitol
+C0066576,minoxidil sulfate
+C0066677,modafinil
+C0066682,fluphenazine enanthate
+C0066685,moexipril
+C0066700,mometasone furoate
+C0066814,morphine sulfate
+C0068006,miltefosine
+C0068314,valrubicin
+C0068333,nabilone
+C0068334,nabumetone
+C0068353,nadoxolol
+C0068367,naftifine
+C0068377,nalmefene
+C0068395,nandrolone decanoate
+C0068397,nandrolone phenpropionate
+C0068475,nebivolol
+C0068483,nedocromil
+C0068485,nefazodone
+C0068700,nicorandil
+C0068722,nicotine polacrilex
+C0068724,nicotinic acid benzyl ester
+C0068771,nilutamide
+C0068788,nitazoxanide
+C0068881,nitroxoline
+C0068897,tiagabine
+C0068980,norethindrone acetate
+C0068981,norethindrone enanthate
+C0068992,norgestimate
+C0069454,olsalazine
+C0069488,omoconazole
+C0069717,oxaliplatin
+C0069739,oxaprozin
+C0069751,oxcarbazepine
+C0069765,oxiconazole
+C0069803,oxybenzone
+C0069805,oxybutynin
+C0069937,padimate-o
+C0070093,teriparatide
+C0070108,paregoric
+C0070122,paroxetine
+C0070325,peppermint oil
+C0070426,perindoprilat
+C0070455,permethrin
+C0070470,perphenazine enanthate
+C0070525,phenacemide
+C0070549,phendimetrazine
+C0070557,phenethicillin
+C0070563,phenindamine
+C0070570,phenol
+C0070592,phensuximide
+C0070694,edaravone
+C0070709,phenyltoloxamine
+C0070895,foscarnet
+C0071002,physostigmine salicylate
+C0071016,lactobacillic acid
+C0071042,picosulfate sodium
+C0071074,pinacidil
+C0071097,pioglitazone
+C0071098,pipamperone
+C0071107,piperazine adipate
+C0071108,estropipate
+C0071129,pirbuterol
+C0071149,piroxicam cinnamate
+C0071214,plasma protein fraction
+C0071304,isradipine
+C0071330,polidocanol
+C0071553,polyestradiol
+C0071554,polyestradiol phosphate
+C0071568,pegaspargase
+C0071751,potassium bicarbonate
+C0071778,potassium phosphate
+C0071808,pralidoxime
+C0071810,pramoxine
+C0071836,prednicarbate
+C0071839,prednisolone acetate
+C0071842,prednisolone phosphate
+C0071844,prednisolone tebutate
+C0072159,propamidine
+C0072160,propamidine isethionate
+C0072225,propylene glycol
+C0072828,quazepam
+C0072857,quinapril
+C0072858,quinaprilat
+C0072864,quinestradol
+C0072869,quinidine gluconate
+C0072916,cisapride
+C0072970,ramiprilat
+C0072973,ramipril
+C0073085,resorcinol
+C0073096,resveratrol
+C0073109,retinol acetate
+C0073115,vitamin a palmitate
+C0073214,rhynchophylline
+C0073226,riboflavin tetrabutyrate
+C0073372,rifapentine
+C0073374,rifaximin
+C0073379,riluzole
+C0073393,risperidone
+C0073571,ropivacaine
+C0073629,ganirelix
+C0073631,ketorolac
+C0073633,ranolazine
+C0073920,sabinene
+C0073983,salsalate
+C0073987,salinomycin
+C0073992,salmeterol
+C0073994,salmon calcitonin
+C0073999,phenyl salicylate
+C0074246,secnidazole
+C0074280,selenious acid
+C0074281,selenium sulfide
+C0074391,sertaconazole
+C0074393,sertraline
+C0074414,sevoflurane
+C0074493,sibutramine
+C0074554,simvastatin
+C0074710,pramipexole
+C0074722,sodium bicarbonate
+C0074757,sodium phosphate
+C0074758,tribasic sodium phosphate
+C0074765,sodium selenate
+C0074774,sodium thiosulfate
+C0074814,ibuprofen lysine
+C0075007,spirapril
+C0075061,fosinoprilat
+C0075262,stiripentol
+C0075503,sulconazole
+C0075504,sulfabenzamide
+C0075632,sumatriptan
+C0075770,docosanol
+C0076075,temafloxacin
+C0076079,temocillin
+C0076080,temozolomide
+C0076107,terazosin
+C0076110,terbinafine
+C0076115,terconazole
+C0076126,terodiline
+C0076166,tertatolol
+C0076181,testosterone cypionate
+C0076188,testosterone decanoate
+C0076189,testosterone enanthate
+C0076195,testosterone undecanoate
+C0076275,orlistat
+C0076286,tetrahydrozoline
+C0076341,tetrazepam
+C0076404,thiamine disulfide
+C0076448,thiobutabarbital
+C0076660,tibolone
+C0076705,tioconazole
+C0076784,tofisopam
+C0076823,atomoxetine
+C0076829,topiramate
+C0076836,toremifene
+C0076840,torsemide
+C0076891,trandolapril
+C0076990,triacetyldithranol
+C0077004,triamcinolone hexacetonide
+C0077030,tricaprylin
+C0077039,trichlorofluoromethane
+C0077071,triclabendazole
+C0077089,triethanolamine
+C0077091,triethanolamine polypeptide oleate condensate
+C0077092,triethanolamine stearate
+C0077158,trimethaphan camsylate
+C0077163,trimethobenzamide
+C0077209,trimetrexate glucuronate
+C0077275,triptorelin
+C0077376,trolamine salicylate
+C0077388,tropatepine
+C0077408,trospium chloride
+C0077768,brimonidine tartrate
+C0077770,doxazosin mesylate
+C0077857,urapidil
+C0078049,varicella-zoster immune globulin
+C0078257,vinorelbine
+C0078373,tocopherol acetate
+C0078375,alpha-tocopherol succinate
+C0078442,epinastine
+C0078569,venlafaxine
+C0078643,xylometazoline
+C0078703,mepirodipine
+C0078774,zinc chloride
+C0078792,zinc pyrithione
+C0078794,zinc sulfate
+C0078836,zofenopril
+C0078839,zolpidem
+C0078844,zonisamide
+C0078956,anistreplase
+C0079083,carboplatin
+C0079226,dextrothyroxine sodium
+C0079466,guanfacine
+C0079589,tamoxifen citrate
+C0079594,iloprost
+C0079691,levothyroxine sodium
+C0079856,moricizine
+C0080356,valproate
+C0080845,"24-homo-1,25-dihydroxyvitamin d3"
+C0081408,zileuton
+C0081437,acetyl sulfisoxazole
+C0081729,beclomethasone 17-monopropionate
+C0081876,pantoprazole
+C0081959,ceftiofur
+C0082607,fluticasone
+C0082608,fluvastatin
+C0082787,halobetasol
+C0082944,hydrocortisone aceponate
+C0082966,ibutilide
+C0083183,lactase
+C0083381,meloxicam
+C0084273,quinidine polygalacturonate
+C0084528,sertindole
+C0085149,tacrolimus
+C0085154,nizatidine
+C0085161,fleroxacin
+C0085170,astemizole
+C0085173,terfenadine
+C0085176,trimetrexate
+C0085208,bupropion
+C0085217,lithium carbonate
+C0085228,fluvoxamine
+C0085237,tocainide
+C0085251,encainide
+C0085259,mupirocin
+C0085272,leuprolide
+C0085297,"immunoglobulins, intravenous"
+C0085379,muromonab-cd3
+C0085542,pravastatin
+C0085884,pivampicillin hydrochloride
+C0085905,cephapirin sodium
+C0085959,carbenicillin phenyl sodium
+C0086024,cobalamins
+C0086073,cromolyn
+C0086135,desmopressin acetate
+C0086140,dextran
+C0086158,dihydroergocornine mesylate
+C0086159,dihydroergocristine monomesylate
+C0086160,dihydroergocryptine mesylate
+C0086248,ergotamine tartrate
+C0086268,etidronate
+C0086303,flecainide acetate
+C0086444,dexrazoxane
+C0086620,miconazole nitrate
+C0086999,chondroitin sulfate sodium
+C0087000,sodium hyaluronate
+C0087093,timolol maleate
+C0087097,tolmetin sodium
+C0087162,vitamin b6
+C0087163,levocarnitine
+C0090306,latanoprost
+C0091724,dimethyl isosorbide
+C0092777,clofarabine
+C0092801,cladribine
+C0093437,cevimeline
+C0097513,avobenzone
+C0098735,halobetasol propionate
+C0102118,alendronate
+C0102130,alfuzosin hydrochloride
+C0102137,alginate
+C0102139,alglucerase
+C0102840,aluminum chloride
+C0103049,amlexanox
+C0105523,benazeprilat
+C0105750,beractant
+C0106169,bethanechol chloride
+C0106556,bismuth subcitrate
+C0106575,bitolterol mesylate
+C0107211,bromfenac sodium
+C0107497,butenafine
+C0107509,butoconazole nitrate
+C0107994,cabergoline
+C0108101,calcium citrate
+C0108111,calcium gluceptate
+C0108121,calcium lactate
+C0108124,calcium levulinate
+C0108342,carbamide peroxide
+C0108938,cefpodoxime proxetil
+C0108950,ceftiofur sodium
+C0109002,methsuximide
+C0109040,diphenidol hydrochloride
+C0109354,chloramphenicol sodium succinate
+C0110038,clavulanate
+C0110059,clidinium bromide
+C0110462,colistimethate sodium
+C0113286,dexamethasone sodium phosphate
+C0113291,dexbrompheniramine maleate
+C0113293,dexmedetomidine
+C0114771,dofetilide
+C0114827,domiphen bromide
+C0114873,doxazosin
+C0116569,esmolol
+C0117339,toremifene citrate
+C0117996,fluticasone propionate
+C0118168,fosinopril
+C0120107,goserelin
+C0120446,guanidine
+C0120447,guanidine hydrochloride
+C0120726,halofantrine
+C0121902,histrelin
+C0122922,hypochlorite
+C0123043,ibopamine
+C0123053,ibutilide fumarate
+C0123091,quetiapine
+C0123677,"insulin aspart, human"
+C0123931,irinotecan
+C0125903,linolenic acid
+C0125988,cyclobenzaprine hydrochloride
+C0125997,lithium citrate
+C0126120,lodoxamide
+C0126169,ciclopirox olamine
+C0126174,losartan
+C0126177,loteprednol etabonate
+C0126774,magnesium citrate
+C0126777,magnesium gluconate
+C0126784,"magnesium phosphate, dibasic"
+C0126789,magnesium salicylate
+C0126791,magnesium stearate
+C0126948,manganese gluconate
+C0127514,menadiol sodium phosphate
+C0127550,mepenzolate bromide
+C0127615,mesalamine
+C0128513,milrinone
+C0132182,chloroprocaine hydrochloride
+C0132326,nevirapine
+C0132512,nilvadipine
+C0134258,xylometazoline hydrochloride
+C0134394,oxybutynin chloride
+C0135166,pamabrom
+C0136123,perindopril
+C0137095,piperazine phosphate
+C0137440,dexchlorpheniramine maleate
+C0137984,potassium acetate
+C0137996,potassium citrate
+C0137997,clavulanate potassium
+C0138037,dibasic potassium phosphate
+C0138038,monobasic potassium phosphate
+C0138210,pralidoxime iodide
+C0138211,pralidoxime mesylate
+C0138273,prednisolone sodium phosphate
+C0138274,prednisolone sodium succinate
+C0139449,pralidoxime chloride
+C0139697,quinidine bisulfate
+C0139919,ranitidine bismuth citrate
+C0140575,rifabutin
+C0140594,rimexolone
+C0141756,methscopolamine bromide
+C0142046,sermorelin
+C0142160,oxiconazole nitrate
+C0142278,sibutramine hydrochloride
+C0142785,sodium acetate
+C0142791,sodium alginate
+C0142805,sodium benzoate
+C0142817,carbenicillin indanyl sodium
+C0142825,sodium citrate
+C0142874,sodium lactate
+C0142915,sodium polystyrene sulfonate
+C0143083,somatrem
+C0143993,sufentanil
+C0144004,sulconazole nitrate
+C0144576,paclitaxel
+C0145932,trimethobenzamide hydrochloride
+C0145942,tiludronate
+C0146011,tizanidine
+C0146224,topotecan
+C0146934,foscarnet sodium
+C0147008,pramoxine hydrochloride
+C0148485,tetrahydrozoline hydrochloride
+C0148859,halofantrine hydrochloride
+C0148932,phendimetrazine tartrate
+C0149304,azatadine maleate
+C0149368,zinc acetate
+C0149381,zinc gluconate
+C0162725,sermorelin acetate
+C0162745,collagenase
+C0162792,sufentanil citrate
+C0163055,metaxalone
+C0163557,moxidectin
+C0163657,chromium picolinate
+C0164386,buclizine
+C0164608,quinethazone
+C0164613,interferon alfacon-1
+C0164662,stavudine
+C0164674,pegademase bovine
+C0164815,penciclovir
+C0165032,imiquimod
+C0165477,trandolaprilat
+C0165590,dorzolamide
+C0165603,atovaquone
+C0165631,adapalene
+C0165703,imidapril
+C0165921,entacapone
+C0166025,risedronate sodium
+C0167117,exenatide
+C0167626,estradiol 3-benzoate
+C0168273,bivalirudin
+C0168387,reboxetine mesylate
+C0168388,reboxetine
+C0169964,somatropin
+C0171023,olanzapine
+C0171673,calcium sodium phosphate
+C0172907,flutrimazole
+C0173083,nitisinone
+C0174938,methylprednisolone aceponate
+C0175158,deserpidine
+C0178695,hyaluronate
+C0205705,casanthranol
+C0205881,paromomycin sulfate
+C0205909,procarbazine hydrochloride
+C0205992,vancomycin hydrochloride
+C0205996,pristinamycin
+C0206232,nadroparin
+C0206460,enoxaparin
+C0206461,dalteparin
+C0206599,sumatriptan succinate
+C0206679,"herpesvirus 1, human"
+C0206816,diloxanide
+C0207214,"calcium phosphate, dihydrate"
+C0207773,piperazine hydrate
+C0209137,moexiprilat
+C0209210,dolasetron
+C0209211,lanreotide
+C0209227,famciclovir
+C0209263,piroxicam-beta-cyclodextrin
+C0209366,cetrorelix
+C0209368,mycophenolate mofetil
+C0209738,lamivudine
+C0210630,filgrastim
+C0210657,pemetrexed
+C0211011,ziconotide
+C0212750,borage oil
+C0213404,rufinamide
+C0213771,tiotropium
+C0215717,parnaparin
+C0216231,sargramostim
+C0216278,tinzaparin
+C0216660,zanamivir
+C0216784,valsartan
+C0216971,colfosceril palmitate
+C0218986,aldesleukin
+C0225326,fiber
+C0237406,apomorphine hydrochloride
+C0237417,phenytoin sodium
+C0242293,flurazepam hydrochloride
+C0242430,phenoxybenzamine hydrochloride
+C0242451,propoxyphene hydrochloride
+C0242518,thiethylperazine maleate
+C0242523,trimipramine maleate
+C0242524,tripelennamine citrate
+C0242525,triprolidine hydrochloride
+C0243237,docusate sodium
+C0244404,raloxifene
+C0244656,fosphenytoin
+C0244713,interferon beta-1b
+C0244714,recombinant interferon beta-1b
+C0244718,perindopril erbumine
+C0244821,ropinirole
+C0244994,wheat germ oil
+C0245109,anakinra
+C0245514,troglitazone
+C0245519,cefditoren pivoxil
+C0245531,salmeterol xinafoate
+C0245561,duloxetine
+C0246203,fluvastatin sodium
+C0246269,icatibant
+C0246330,tolcapone
+C0246415,docetaxel
+C0246421,letrozole
+C0246631,remifentanil
+C0246689,repaglinide
+C0246719,risedronate
+C0247025,tirofiban
+C0247194,iloperidone
+C0248719,telmisartan
+C0249458,valacyclovir
+C0249529,febuxostat
+C0249582,paricalcitol
+C0251504,zaleplon
+C0252643,bosentan
+C0253563,eptifibatide
+C0253907,testosterone isocaproate
+C0254119,interferon beta-1a
+C0254215,reviparin
+C0254216,reviparin sodium
+C0256103,reteplase
+C0257190,ivabradine
+C0257343,tamsulosin
+C0257685,zoledronic acid
+C0257928,ferumoxsil
+C0259507,danaparoid
+C0262960,sulfacytine
+C0262964,capreomycin
+C0278766,allopurinol sodium
+C0281351,uridine triacetate
+C0281581,dinutuximab
+C0281666,alitretinoin
+C0282040,acyclovir sodium
+C0282042,eflornithine hydrochloride
+C0282044,alprenolol hydrochloride
+C0282045,"aluminum hydroxide, dried (usp)"
+C0282051,amphetamine sulfate
+C0282052,ampicillin sodium
+C0282053,antazoline hydrochloride
+C0282072,betaine hydrochloride
+C0282104,ciprofloxacin hydrochloride
+C0282105,clindamycin hydrochloride
+C0282107,clomipramine hydrochloride
+C0282108,cocaine hydrochloride
+C0282119,cysteamine bitartrate
+C0282123,daunorubicin hydrochloride
+C0282125,demeclocycline hydrochloride
+C0282131,diclofenac potassium
+C0282133,diethylpropion hydrochloride
+C0282138,diltiazem malate
+C0282140,docusate calcium
+C0282141,docusate potassium
+C0282144,diphenhydramine citrate
+C0282145,diphenoxylate hydrochloride
+C0282151,dopamine hydrochloride
+C0282152,doxapram hydrochloride
+C0282155,doxycycline calcium
+C0282162,emetine hydrochloride
+C0282179,fenfluramine hydrochloride
+C0282190,guanethidine monosulfate
+C0282198,hydralazine hydrochloride
+C0282210,isoproterenol hydrochloride
+C0282211,isoproterenol sulfate
+C0282213,isoxsuprine hydrochloride
+C0282219,lincomycin hydrochloride
+C0282221,loperamide hydrochloride
+C0282227,meclizine hydrochloride
+C0282232,levomethadyl acetate hydrochloride
+C0282233,methamphetamine hydrochloride
+C0282239,metronidazole hydrochloride
+C0282242,mezlocillin sodium
+C0282249,molindone hydrochloride
+C0282259,naphazoline hydrochloride
+C0282261,neostigmine bromide
+C0282268,nylidrin hydrochloride
+C0282274,oxycodone hydrochloride
+C0282275,oxymorphone hydrochloride
+C0282277,oxytetracycline calcium
+C0282292,penbutolol sulfate
+C0282303,phenobarbital sodium
+C0282304,phentermine hydrochloride
+C0282321,propranolol hydrochloride
+C0282330,pyrilamine maleate
+C0282331,quinacrine monohydrochloride
+C0282336,rimantadine hydrochloride
+C0282355,sulbactam sodium
+C0282356,sulfacetamide sodium
+C0282369,trazodone hydrochloride
+C0282378,warfarin potassium
+C0282386,levofloxacin
+C0282388,idarubicin hydrochloride
+C0282391,ceftizoxime sodium
+C0282395,cilastatin sodium
+C0282398,mefloquine hydrochloride
+C0282399,ganciclovir sodium
+C0282471,dalteparin sodium
+C0282849,chlorophyllin copper complex
+C0284906,fosphenytoin sodium
+C0284941,acamprosate
+C0285590,bicalutamide
+C0286030,tiludronate disodium
+C0286079,cidofovir
+C0286185,mibefradil
+C0286186,mibefradil dihydrochloride
+C0286382,polaprezinc
+C0286650,atorvastatin calcium
+C0286651,atorvastatin
+C0286722,icatibant acetate
+C0286737,saquinavir mesylate
+C0286738,saquinavir
+C0287041,eprosartan
+C0287573,cefditoren
+C0288165,delavirdine
+C0288171,irbesartan
+C0288672,abciximab
+C0288792,tazarotene
+C0289313,rosiglitazone
+C0289432,methylergonovine maleate
+C0289884,glatiramer acetate
+C0290883,anastrozole
+C0291140,imiglucerase
+C0291771,alosetron hydrochloride
+C0291772,alosetron
+C0292818,ritonavir
+C0292819,fomivirsen
+C0293359,insulin lispro
+C0296800,fexofenadine
+C0297268,ardeparin sodium
+C0297269,ardeparin
+C0297635,rizatriptan
+C0298067,pirfenidone
+C0298130,montelukast
+C0299792,aripiprazole
+C0301249,cinnamon oil
+C0301329,calcium undecylenate
+C0301331,zinc undecylenate
+C0301352,colloid sulfur
+C0301366,ecothiopate
+C0301369,anisotropine
+C0301370,"belladonna extract, usp"
+C0301373,isopropamide
+C0301374,methscopolamine
+C0301383,mannitol hexanitrate
+C0301421,witch hazel
+C0301464,aluminum carbonate
+C0301504,latrodectus mactans antivenin
+C0301527,potassium gluconate
+C0301547,flumethiazide
+C0301556,arginine hydrochloride
+C0302236,north american coral snake antivenin
+C0302583,iron
+C0303757,coal tar pitch volatiles
+C0303760,coal tar extract
+C0304097,caraway oil
+C0304146,parsley seed oil
+C0304297,tripelennamine hydrochloride
+C0304299,bromodiphenhydramine hydrochloride
+C0304300,carbinoxamine maleate
+C0304304,buclizine hydrochloride
+C0304305,cyclizine lactate
+C0304311,clindamycin palmitate hydrochloride
+C0304315,griseofulvin microsize
+C0304352,codeine sulfate
+C0304358,butabarbital sodium
+C0304359,secobarbital sodium
+C0304368,imipramine pamoate
+C0304369,tranylcypromine sulfate
+C0304371,methdilazine hydrochloride
+C0304375,methotrimeprazine hydrochloride
+C0304376,triflupromazine hydrochloride
+C0304378,acetophenazine maleate
+C0304381,trifluoperazine hydrochloride
+C0304384,chlorprothixene hydrochloride
+C0304386,thiothixene hydrochloride
+C0304390,loxapine hydrochloride
+C0304411,biperiden hydrochloride
+C0304422,hyoscyamine hydrobromide
+C0304423,methantheline bromide
+C0304425,ephedrine hydrochloride
+C0304426,ephedrine sulfate
+C0304428,phenylephrine bitartrate
+C0304430,pseudoephedrine hydrochloride
+C0304431,pseudoephedrine sulfate
+C0304441,theophylline anhydrous
+C0304455,dyclonine hydrochloride
+C0304456,tetracaine hydrochloride
+C0304489,chlorothiazide sodium
+C0304520,digitalis preparation
+C0304521,inamrinone lactate
+C0304525,guanadrel sulfate
+C0304526,mecamylamine hydrochloride
+C0304527,methyldopate hydrochloride
+C0304532,liquefied phenol
+C0304539,cimetidine hydrochloride
+C0304554,aloe extract
+C0304556,malt soup extract
+C0304561,rhubarb preparation
+C0304568,benzquinamide hydrochloride
+C0304572,potassium guaiacolsulfonate
+C0304594,naftifine hydrochloride
+C0304612,diflorasone
+C0304657,apraclonidine hydrochloride
+C0304658,flurbiprofen sodium
+C0304712,ergot preparation
+C0304713,acetazolamide sodium
+C0304783,sodium estrone sulfate
+C0304894,sodium folate
+C0304925,"albumin human, usp"
+C0304965,sodium fluoride f-18
+C0304977,sodium iodide i123
+C0305048,polyvalent crotalidae antivenin
+C0305057,equine diphtheria antitoxin
+C0305058,"tetanus immune globulin, human"
+C0305062,"tetanus toxoid vaccine, inactivated"
+C0306604,"lente insulin, pork"
+C0309393,levamisole phosphate
+C0317591,lactobacillus bulgaricus
+C0317592,lactobacillus helveticus
+C0317593,ligilactobacillus salivarius
+C0317597,lactobacillus casei rhamnosus
+C0317608,lactobacillus plantarum
+C0317614,lactobacillus crispatus
+C0317625,lactobacillus reuteri
+C0338196,amphotericin b colloidal dispersion
+C0350132,metoprolol fumarate
+C0350279,isoetharine hydrochloride
+C0350422,dextromethorphan hydrobromide
+C0350817,clomocycline sodium
+C0351975,pilocarpine nitrate
+C0352474,fluclorolone acetonide
+C0352536,hydrocortisone butyrate
+C0353148,meperidine hydrochloride
+C0353453,danaparoid sodium
+C0353490,metronidazole benzoate
+C0353902,kaolin light
+C0353940,olsalazine sodium
+C0354468,amlodipine besylate
+C0354594,epoprostenol sodium
+C0354599,tinzaparin sodium
+C0354648,colestipol hydrochloride
+C0354872,cyproheptadine hydrochloride
+C0355077,chlorpromazine hydrochloride
+C0355564,dihydrocodeine bitartrate
+C0355587,pentazocine hydrochloride
+C0355800,naltrexone hydrochloride
+C0356588,pamidronate disodium
+C0356799,estramustine phosphate
+C0357080,polysaccharide iron complex
+C0357126,epoetin alfa
+C0357217,trisodium edetate
+C0357701,physostigmine sulfate
+C0357797,oxymetazoline hydrochloride
+C0358490,procaine hydrochloride
+C0360172,mepenzolate
+C0360174,demecarium
+C0360192,colfosceril
+C0360506,intramuscular immunoglobulin
+C0360534,alclometasone
+C0360537,fluclorolone
+C0360564,mometasone
+C0376218,warfarin sodium
+C0376259,citrate
+C0376266,feverfew extract
+C0376564,teriparatide acetate
+C0376637,indinavir
+C0377265,levetiracetam
+C0377401,vinorelbine tartrate
+C0378466,zafirlukast
+C0378482,rabeprazole
+C0379135,becaplermin
+C0379199,ibandronate
+C0379200,ibandronic acid
+C0379881,trovafloxacin
+C0380392,ziprasidone hydrochloride
+C0380393,ziprasidone
+C0380447,montelukast sodium
+C0383429,alemtuzumab
+C0384228,tenofovir
+C0386393,olmesartan medoxomil
+C0387288,verteporfin
+C0388087,fingolimod hydrochloride
+C0388753,tolterodine
+C0389169,doripenem
+C0391001,peginterferon alfa-2a
+C0392428,chromic phosphate p32
+C0393022,rituximab
+C0393080,voriconazole
+C0453273,cranberry preparation
+C0520458,pentetate calcium trisodium
+C0520472,levonordefrin
+C0520529,potassium phenethicillin
+C0521898,cephapirin benzathine
+C0521899,ceftiofur hydrochloride
+C0521900,amoxicillin trihydrate
+C0521901,tetracycline phosphate complex
+C0521925,salinomycin sodium
+C0521933,yohimbine hydrochloride
+C0521943,activated attapulgite
+C0521946,caramiphen edisylate
+C0521947,chlorhexidine diacetate
+C0524639,urofollitropin
+C0524684,pentosan polysulphate sodium
+C0524735,magnesium valproate
+C0524959,iobenguane i-131
+C0525005,nelfinavir
+C0525079,bendamustine
+C0525227,brimonidine
+C0525678,rasagiline
+C0526119,omoconazole mononitrate
+C0526371,midostaurin
+C0526399,lercanidipine
+C0527038,isopropyl unoprostone
+C0527189,olopatadine
+C0527316,donepezil
+C0527379,candesartan cilexetil
+C0528023,cerivastatin
+C0528166,zolmitriptan
+C0529351,darifenacin
+C0529793,sildenafil
+C0530684,ezogabine
+C0531104,lumefantrine
+C0533153,silver acetate
+C0533545,gemifloxacin
+C0534191,recombinant fviia
+C0536495,moxifloxacin
+C0537147,tegaserod
+C0537439,enfuvirtide
+C0537551,pramlintide
+C0537894,caspofungin
+C0538727,icodextrin
+C0538927,celecoxib
+C0540623,naratriptan
+C0540694,adefovir dipivoxil
+C0540776,alatrofloxacin
+C0541154,colesevelam hydrochloride
+C0541155,colesevelam
+C0543447,acebutolol hydrochloride
+C0543448,magnesium aspartate
+C0543450,carteolol hydrochloride
+C0543452,dothiepin hydrochloride
+C0543454,fosfomycin tromethamine
+C0543456,histamine dihydrochloride
+C0543459,mexiletine hydrochloride
+C0543464,potassium aminobenzoate
+C0543469,viloxazine hydrochloride
+C0543470,betaxolol hydrochloride
+C0543473,bisoprolol fumarate
+C0543492,delavirdine mesylate
+C0543495,albuterol sulfate
+C0546849,amiloride hydrochloride
+C0546851,benzphetamine hydrochloride
+C0546852,bromocriptine mesylate
+C0546853,brompheniramine maleate
+C0546856,proguanil hydrochloride
+C0546857,chlorpheniramine maleate
+C0546858,clemastine fumarate
+C0546859,clomiphene citrate
+C0546860,clonidine hydrochloride
+C0546861,doxorubicin hydrochloride
+C0546862,econazole nitrate
+C0546863,ethambutol hydrochloride
+C0546864,fentanyl citrate
+C0546865,flavoxate hydrochloride
+C0546866,gentamicin sulfate
+C0546868,hydrocodone bitartrate
+C0546869,lidocaine hydrochloride
+C0546872,midazolam maleate
+C0546873,naproxen sodium
+C0546874,procyclidine hydrochloride
+C0546875,promazine hydrochloride
+C0546876,promethazine hydrochloride
+C0546879,tetracycline hydrochloride
+C0546880,ticarcillin disodium
+C0546882,liothyronine sodium
+C0555881,arnica extract
+C0589978,imipramine hydrochloride
+C0591771,dicyclomine hydrochloride
+C0592532,certoparin
+C0592534,certoparin sodium
+C0592789,acamprosate calcium
+C0594375,irinotecan hydrochloride
+C0594488,mometasone furoate monohydrate
+C0595331,lercanidipine hydrochloride
+C0595398,balsalazide disodium
+C0596004,hyoscyamine
+C0596005,atropine sulfate
+C0596007,hydroxychloroquine sulfate
+C0596008,levorphanol tartrate
+C0596019,chloride ion
+C0597277,potassium ion
+C0599686,nucleoside analog antiviral [epc]
+C0600099,nalbuphine hydrochloride
+C0600110,hydroxyzine hydrochloride
+C0600197,cyclizine hydrochloride
+C0600266,mechlorethamine hydrochloride
+C0600311,procainamide hydrochloride
+C0600347,theophylline sodium glycinate
+C0600487,milrinone lactate
+C0600526,sertraline hydrochloride
+C0600560,dexfenfluramine hydrochloride
+C0600901,methylprednisolone acetate
+C0602107,ethylnorepinephrine
+C0605028,papaverine codecarboxylate
+C0606318,pheniramine aminosalicylate
+C0606954,oxycodone terephthalate
+C0607673,levomepromazine maleate
+C0607799,betaine citrate
+C0608826,aceprometazine
+C0609436,methenamine mandelate
+C0612688,hydrocortisone cypionate
+C0614088,trimeprazine tartrate
+C0616274,fludrocortisone acetate
+C0617131,sulbactam pivoxyl
+C0618111,raloxifene hydrochloride
+C0649350,rivastigmine
+C0654391,bromperidol decanoate
+C0657912,pregabalin
+C0663182,daclizumab
+C0663241,linezolid
+C0663655,abacavir
+C0663733,tipranavir
+C0666743,infliximab
+C0671970,capecitabine
+C0672596,palivizumab
+C0672708,vorinostat
+C0673470,istradefylline
+C0673966,brinzolamide
+C0674428,efavirenz
+C0674432,lopinavir
+C0677666,soy protein isolate
+C0677829,palifermin
+C0699440,labetalol hydrochloride
+C0699481,orphenadrine hydrochloride
+C0700346,"antihemophilic factor, human"
+C0700349,pentobarbital sodium
+C0700442,amiodarone hydrochloride
+C0700443,ampicillin trihydrate
+C0700444,buspirone hydrochloride
+C0700445,cefotaxime sodium
+C0700446,cefoxitin sodium
+C0700447,chloroquine sulfate
+C0700450,dobutamine hydrochloride
+C0700451,doxycycline monohydrate
+C0700452,enalapril maleate
+C0700453,fenoterol hydrobromide
+C0700455,maprotiline hydrochloride
+C0700456,mianserin hydrochloride
+C0700457,midazolam hydrochloride
+C0700458,mitoxantrone hydrochloride
+C0700459,nortriptyline hydrochloride
+C0700460,oxprenolol hydrochloride
+C0700461,papaverine hydrochloride
+C0700462,penicillin g potassium
+C0700463,piperacillin sodium
+C0700465,propafenone hydrochloride
+C0700466,ranitidine hydrochloride
+C0700467,selegiline hydrochloride
+C0700468,verapamil hydrochloride
+C0700470,cefmetazole sodium
+C0700471,cefotetan disodium
+C0700472,guanfacine hydrochloride
+C0700473,fluvoxamine maleate
+C0700474,pravastatin sodium
+C0700475,celiprolol hydrochloride
+C0700476,goserelin acetate
+C0700477,nafarelin acetate
+C0700478,ondansetron hydrochloride
+C0700480,cetirizine hydrochloride
+C0700481,fenoldopam mesylate
+C0700482,alendronate sodium
+C0700483,indinavir sulfate
+C0700488,dipivefrin hydrochloride
+C0700489,isoconazole nitrate
+C0700492,losartan potassium
+C0700496,pyridoxine hydrochloride
+C0700499,thioridazine hydrochloride
+C0700523,amitriptyline hydrochloride
+C0700525,butorphanol tartrate
+C0700526,cefazolin sodium
+C0700527,ceftriaxone sodium
+C0700528,chlordiazepoxide hydrochloride
+C0700529,desipramine hydrochloride
+C0700531,diethylcarbamazine citrate
+C0700532,dihydroergotamine mesylate
+C0700533,hydromorphone hydrochloride
+C0700534,disopyramide phosphate
+C0700535,doxepin hydrochloride
+C0700536,epinephrine bitartrate
+C0700538,guanethidine sulfate
+C0700539,hydroxyzine pamoate
+C0700540,kanamycin sulfate
+C0700541,ketamine hydrochloride
+C0700542,mepivacaine hydrochloride
+C0700543,mesoridazine besylate
+C0700545,methylphenidate hydrochloride
+C0700546,methylprednisolone sodium succinate
+C0700547,methysergide maleate
+C0700548,metoprolol tartrate
+C0700549,naloxone hydrochloride
+C0700550,netilmicin sulfate
+C0700553,penicillin v potassium
+C0700554,pentazocine lactate
+C0700555,phenazopyridine hydrochloride
+C0700556,phenmetrazine hydrochloride
+C0700557,protriptyline hydrochloride
+C0700559,thiamylal sodium
+C0700563,bupropion hydrochloride
+C0700566,metocurine iodide
+C0700567,fluphenazine hydrochloride
+C0700578,prazosin hydrochloride
+C0700579,diltiazem hydrochloride
+C0700580,ipratropium bromide
+C0700582,epirubicin hydrochloride
+C0700583,diclofenac sodium
+C0700596,leuprolide acetate
+C0700603,betamethasone sodium phosphate
+C0700606,esmolol hydrochloride
+C0700607,digoxin antibodies fab fragments
+C0701436,azlocillin sodium
+C0701445,buprenorphine hydrochloride
+C0701852,cefuroxime sodium
+C0701889,cefadroxil monohydrate
+C0701918,gonadorelin acetate
+C0701919,gonadorelin hydrochloride
+C0702256,magnesium disodium edta
+C0717537,calcium acetate
+C0717550,candesartan
+C0717551,candida albicans allergenic extract
+C0717668,daunorubicin liposomal
+C0717685,dextran 1
+C0717752,"estrogens, esterified (usp)"
+C0717758,etanercept
+C0717787,glatiramer
+C0717898,magnesium amino acid chelate
+C0718043,sacrosidase
+C0718050,sevelamer
+C0718066,sodium phenylbutyrate
+C0718495,ammonium lactate
+C0718926,"betamethasone dipropionate, augmented"
+C0719220,cephalexin monohydrate
+C0720683,"glyburide, micronized"
+C0720718,"griseofulvin, ultramicrocrystalline"
+C0720809,haloperidol lactate
+C0721688,methadone hydrochloride
+C0723270,senna concentrate
+C0723509,sulfadiazine sodium
+C0724348,vitamin e d-alpha
+C0724349,vitamin e dl-alpha
+C0724441,yohimbine
+C0724511,"bcg, live, tice strain"
+C0724515,abacavir sulfate
+C0724517,alatrofloxacin mesylate
+C0724524,amphetamine aspartate
+C0724526,ampicillin (anhydrous)
+C0724529,"antihemophilic factor, porcine"
+C0724532,"antithrombin iii, human"
+C0724543,calcium chloride dihydrate
+C0724546,carbetapentane tannate
+C0724548,ceftazidime sodium
+C0724549,cerivastatin sodium
+C0724551,chlorpheniramine polistirex
+C0724552,chlorpheniramine tannate
+C0724554,cisapride monohydrate
+C0724555,citalopram hydrobromide
+C0724556,citric acid monohydrate
+C0724560,colloidal oatmeal
+C0724561,"sulfur, colloidal"
+C0724564,cyclophosphamide lyophilized
+C0724567,daunorubicin citrate liposome
+C0724568,dextroamphetamine saccharate
+C0724570,dibasic sodium phosphate heptahydrate
+C0724578,emedastine difumarate
+C0724579,enoxaparin sodium
+C0724580,ephedrine tannate
+C0724584,"coagulation factor ix, human"
+C0724585,fenofibrate micronized
+C0724587,fluorometholone acetate
+C0724597,histrelin acetate
+C0724598,hydrocodone polistirex
+C0724600,"insulin isophane, pork"
+C0724601,"insulin, regular, pork"
+C0724603,"ultralente insulin, human"
+C0724622,magnesium chloride hexahydrate
+C0724624,medium chain triglycerides
+C0724633,metoprolol succinate
+C0724635,"sodium phosphate,monobasic,monohydrate"
+C0724636,moricizine hydrochloride
+C0724641,mupirocin calcium
+C0724647,"nitrofurantoin, monohydrate"
+C0724649,octreotide acetate
+C0724655,opium tincture
+C0724658,phenindamine tartrate
+C0724659,phentermine resin
+C0724660,phenylephrine tannate
+C0724661,phenylpropanolamine bitartrate
+C0724662,phenyltoloxamine citrate
+C0724666,pirbuterol acetate
+C0724672,polyethylene glycol 3350
+C0724674,potassium citrate monohydrate
+C0724676,pseudoephedrine tannate
+C0724679,pyrilamine tannate
+C0724680,quetiapine fumarate
+C0724692,sibutramine hydrochloride monohydrate
+C0724693,sildenafil citrate
+C0724696,sodium citrate dihydrate
+C0724698,standardized enzyme lactase
+C0724701,testosterone (micronized)
+C0724707,timolol hemihydrate
+C0724709,tolbutamide sodium
+C0724710,tolterodine tartrate
+C0724711,tretinoin microsphere
+C0724713,trimethoprim sulfate
+C0724715,trovafloxacin mesylate
+C0724725,zolpidem tartrate
+C0725616,"citric acid, anhydrous"
+C0727050,"mineral oil, light"
+C0727538,potassium bitartrate
+C0728747,trastuzumab
+C0731033,leucovorin calcium
+C0732569,rabeprazole sodium
+C0733365,levobunolol hydrochloride
+C0733367,cefoperazone sodium
+C0733377,etidocaine hydrochloride
+C0733380,fluoxetine hydrochloride
+C0733381,guanabenz acetate
+C0733383,levamisole hydrochloride
+C0733394,midodrine hydrochloride
+C0733397,masoprocol
+C0733398,phentolamine mesylate
+C0733440,fosinopril sodium
+C0733758,follicle stimulating hormone
+C0750848,betamethasone valerate
+C0752270,echinacea preparation
+C0752310,dexmedetomidine hydrochloride
+C0753645,gatifloxacin
+C0753678,paliperidone
+C0754011,abiraterone
+C0754188,amprenavir
+C0754280,flibanserin
+C0754517,moxifloxacin hydrochloride
+C0754647,frovatriptan
+C0754659,dutasteride
+C0756081,quinupristin
+C0756085,dalfopristin
+C0759933,eletriptan
+C0762662,rofecoxib
+C0763530,calfactant
+C0765273,bexarotene
+C0765538,dexketoprofen trometamol
+C0766108,clevidipine
+C0766326,dronedarone
+C0768182,iodine-131-tositumomab
+C0770137,terazosin hydrochloride
+C0770150,nicardipine hydrochloride
+C0770198,"iron,peptonized"
+C0770201,"insulin, regular, beef-pork"
+C0770209,"insulin, protamine zinc, beef"
+C0770213,"insulin, protamine zinc, pork"
+C0770221,"lente insulin, beef"
+C0770226,"ultralente insulin, beef-pork"
+C0770228,"ultralente insulin, beef"
+C0770230,"insulin, prompt zinc, beef-pork"
+C0770232,"insulin, prompt zinc, beef"
+C0770234,"insulin, prompt zinc, pork"
+C0770309,thiamine hydrochloride
+C0770325,trientine hydrochloride
+C0770333,difenoxin hydrochloride
+C0770343,pancrelipase
+C0770351,hydroxyprogesterone acetate
+C0770382,dibucaine hydrochloride
+C0770386,barbital sodium
+C0770393,clorazepic acid
+C0770426,codeine polistirex
+C0770435,ethoheptazine citrate
+C0770438,potassium salicylate
+C0770456,pilocarpine hydrochloride
+C0770458,homatropine hydrobromide
+C0770491,pirbuterol hcl
+C0770500,tolazoline hydrochloride
+C0770546,"heparin, porcine"
+C0770559,hydrocortisone sodium phosphate
+C0770560,hydrocortisone sodium succinate
+C0770565,dexamethasone phosphate
+C0770578,"sodium phosphate, monobasic"
+C0770649,ceftazidime pentahydrate
+C0770666,"nitrofurantoin, macrocrystals"
+C0770669,methenamine sulfosalicylate
+C0770858,methapyrilene hydrochloride
+C0770863,chlorcyclizine hydrochloride
+C0770882,amitriptyline pamoate
+C0770888,prochlorperazine mesylate
+C0770891,flupentixol hydrochloride
+C0770893,metformin hydrochloride
+C0770895,pipotiazine palmitate
+C0770900,floxacillin sodium
+C0770901,morphine hydrochloride
+C0770909,bepridil hydrochloride
+C0770916,dapiprazole hydrochloride
+C0770917,benazepril hydrochloride
+C0770920,quinapril hydrochloride
+C0770927,lomefloxacin hydrochloride
+C0770942,cyclizine tartrate
+C0770945,morphine tartrate
+C0770946,pirenzepine hydrochloride
+C0770959,capsicum oleoresin
+C0770983,anhydrous zinc acetate
+C0770988,naphazoline nitrate
+C0771004,azelastine hydrochloride
+C0771010,floxacillin magnesium
+C0771019,paroxetine hydrochloride
+C0771027,talampicillin napsylate
+C0771029,terbinafine hydrochloride
+C0771030,terodiline hydrochloride
+C0771046,ciprofloxacin lactate
+C0771049,lofexidine hydrochloride
+C0771053,trimethoprim lactate
+C0771055,melphalan hydrochloride
+C0771061,bambuterol hydrochloride
+C0771138,buflomedil hydrochloride
+C0771161,bismuth hydroxide
+C0771167,dihydralazine sulfate
+C0771182,tacrine hydrochloride
+C0771194,levocabastine hydrochloride
+C0771200,venlafaxine hydrochloride
+C0771204,anhydrous tacrolimus
+C0771209,"tinzaparin sodium,porcine"
+C0771246,"heparin, bovine"
+C0771284,cefepime hydrochloride
+C0771293,dorzolamide hydrochloride
+C0771294,moexipril hydrochloride
+C0771297,nalmefene hydrochloride
+C0771305,"cyclosporine, modified"
+C0771309,valacyclovir hydrochloride
+C0771310,nefazodone hydrochloride
+C0771311,alendronic acid
+C0771312,sulfathiazole sodium
+C0771315,omeprazole sodium
+C0771339,calteridol
+C0771340,calteridol calcium
+C0771341,cefpirome sulfate
+C0771352,caffeine monohydrate
+C0771375,docetaxel anhydrous
+C0771376,codeine anhyd
+C0771385,trifluperidol hydrochloride
+C0771392,dextromethorphan polistirex
+C0771414,lanreotide acetate
+C0771428,nadoxolol hydrochloride
+C0771436,tenonitrozole
+C0771439,trimipramine mesylate
+C0771440,tropatepine hydrochloride
+C0771451,midecamycin diacetate
+C0771454,cefotiam hydrochloride
+C0771466,ethanolamine thenoate
+C0771469,formoterol fumarate
+C0771488,gemcitabine hydrochloride
+C0771490,codeine camsyl
+C0771516,diphenhydramine diacefyllinate
+C0771537,devil's claw preparation
+C0771561,hydroxocobalamin acetate
+C0771588,quinine ascorbate
+C0771589,maprotiline mesylate
+C0771607,saw palmetto extract
+C0771618,phenylbutazone piperazine
+C0771641,tertatolol hydrochloride
+C0771647,piribedil mesylate
+C0771648,poractant alfa
+C0771735,tizanidine hydrochloride
+C0771736,propylhexedrine hydrochloride
+C0771747,protamine hydrochloride
+C0771752,fexofenadine hydrochloride
+C0771754,rifamycin sodium
+C0771765,omeprazole magnesium
+C0771774,tamsulosin hydrochloride
+C0771789,uridine triphosphate sodium
+C0771798,penicillin v calcium
+C0771807,cyproheptadine pyrid phos
+C0771813,phenylbutazone sodium
+C0771825,triptorelin acetate
+C0771826,ropivacaine hydrochloride
+C0771827,remifentanil hydrochloride
+C0771840,ropinirole hydrochloride
+C0771847,butenafine hydrochloride
+C0771848,donepezil hydrochloride
+C0771849,calcium dihydrogen phosphate
+C0771892,olopatadine hydrochloride
+C0771896,sertaconazole nitrate
+C0771903,glucosamine hydrochloride
+C0771907,anagrelide hydrochloride
+C0771929,pantoprazole (as pantoprazole sodium sesquihydrate)
+C0771947,doxycycline hydrochloride
+C0771967,black cohosh extract
+C0771983,dihydroergotamine tartrate
+C0771988,memantine hydrochloride
+C0771993,naratriptan hydrochloride
+C0772002,ferric oxide yellow
+C0772024,"sodium phosphate, dibasic"
+C0772039,amitriptyline oxide
+C0772043,nicotinic acid propyl ester
+C0772054,pramipexole dihydrochloride
+C0772081,perazine dimalonate
+C0772089,trospium
+C0772093,saccharomyces boulardii
+C0772096,uridine 5-mo-phos disod
+C0772098,azidocillin sodium
+C0772105,phenyltoloxamine polistirex
+C0772119,pyridoxine phosphoserinate
+C0772122,bupranolol hydrochloride
+C0772123,dibenzepin hydrochloride
+C0772125,ginkgo biloba extract
+C0772132,promethazine dioxide
+C0772139,bendamustine hydrochloride
+C0772153,zinc nicotinate
+C0772169,erythromycin stinoprate
+C0772177,lactobacillus bifidus
+C0772181,estradiol hemihydrate
+C0772198,tetracycline trihydrate
+C0772200,tiagabine hydrochloride
+C0772203,eprosartan mesylate
+C0772208,nebivolol hydrochloride
+C0772217,budipine hydrochloride
+C0772229,bopindolol hydrogen malonate
+C0772230,mepindolol sulfate
+C0772244,ibandronate sodium
+C0772255,theobromine sod salicylate
+C0772258,camphor oil
+C0772260,hydrocodone hydrochloride
+C0772277,"phenylalanine,dl-"
+C0772293,drotaverine hydrochloride
+C0772294,epinastine hydrochloride
+C0772319,unoprostone
+C0772333,desipramine dibudinate
+C0772342,levomethadyl
+C0772364,loteprednol
+C0772384,"zinc sulfate, heptahydrate"
+C0772394,lepirudin
+C0772396,"amikacin sulfate, liposomal"
+C0772415,rivastigmine tartrate
+C0772420,rizatriptan benzoate
+C0772450,mycophenolate mofetil hydrochloride
+C0772457,magnesium phosphate dibasic trihydrate
+C0772463,sevelamer hydrochloride
+C0772488,bismuth-formic-iodide
+C0772501,levalbuterol
+C0772502,levalbuterol hydrochloride
+C0772505,dexketoprofen
+C0772506,acetylcysteine sodium
+C0795575,eptacog alfa activated
+C0795577,recombinant antihemophilic factor viii
+C0795582,azithromycin dihydrate
+C0795584,beclomethasone dipropionate monohydrate
+C0795597,cytarabine liposome
+C0795604,"synthetic conjugated estrogens, a"
+C0795614,glucagon hydrochloride
+C0795633,"insulin isophane, human"
+C0795635,"insulin, regular, human"
+C0795642,magnesium salicylate tetrahydrate
+C0795649,oat bran
+C0795650,pantoprazole sodium
+C0795657,"alpha 1-proteinase inhibitor, human"
+C0795660,rosiglitazone maleate
+C0795668,tirofiban hydrochloride
+C0795674,valerian root extract
+C0795677,"von willebrand factor, human"
+C0796392,bevacizumab
+C0796396,iodine-125
+C0796545,peginterferon alfa-2b
+C0812398,hetacillin potassium
+C0812468,methscopolamine nitrate
+C0813196,indomethacin sodium trihydrate
+C0813197,disodium latamoxef
+C0813202,carbenicillin disodium
+C0815310,heavy mineral oil
+C0851344,exemestane
+C0872890,dextromethorphan tannate
+C0872894,ganirelix acetate
+C0872896,hops extract
+C0872908,oseltamivir phosphate
+C0872910,"potassium,chelated"
+C0872912,soybean lecithin
+C0872913,tenecteplase
+C0872914,trimethoprim hydrochloride
+C0872971,pemirolast potassium
+C0872972,pioglitazone hydrochloride
+C0872994,imidapril hydrochloride
+C0872997,cetrorelix acetate
+C0873006,"ferrous sulfate,dried"
+C0873024,ceftibuten dihydrate
+C0873040,dihydralazine sul hemipenthy
+C0873071,"progesterone, micronized"
+C0873118,levobupivacaine
+C0873119,levobupivacaine hydrochloride
+C0873156,manidipine hydrochloride
+C0873162,zofenopril calcium
+C0873192,triethanolamine oleate
+C0874063,cevimeline hydrochloride
+C0874161,oseltamivir
+C0875947,sodium ferric gluconate complex
+C0876231,aminolevulinic acid hydrochloride
+C0876232,glucagon (rdna)
+C0876234,levobetaxolol hydrochloride
+C0876769,iron carbonyl
+C0877836,pefloxacin mesylate
+C0877880,ibritumomab tiuxetan
+C0879399,tositumomab
+C0879427,panitumumab
+C0883242,mycophenolate
+C0886530,nelfinavir mesylate
+C0886549,topotecan hydrochloride
+C0886584,metyrosine
+C0886592,azithromycin monohydrate
+C0886642,"paroxetine hydrochloride, hemihydrate"
+C0886658,nedocromil sodium
+C0886765,tocainide monohydrochloride
+C0886809,enalaprilat anhydrous
+C0886855,imipenem anhydrous
+C0886883,divalproex sodium
+C0887016,pheniramine maleate
+C0887052,oxytetracycline dihydrate
+C0887127,metoclopramide dihydrochloride
+C0887128,metoclopramide hydrochloride
+C0887175,methicillin sodium
+C0887187,"ibuprofen, sodium salt"
+C0887323,fenoprofen calcium
+C0887411,dextromethorphan hydrochloride
+C0887422,dicloxacillin sodium
+C0887458,cysteamine hydrochloride
+C0887525,spectinomycin hydrochloride
+C0887551,amoxicillin sodium
+C0887557,sodium ascorbate
+C0887581,benzocaine hydrochloride
+C0887621,bupivacaine hydrochloride
+C0887647,cefsulodin sodium
+C0887700,"sodium acetate, anhydrous"
+C0887732,azathioprine sodium
+C0887741,acetylcysteine zinc
+C0888138,"sennoside a&b, calcium salt"
+C0888973,triethanolamine phosphate
+C0888974,triethanolamine acetate
+C0888983,triethanolamine hydrochloride
+C0888984,triethanolamine sulfate
+C0889299,prednisolone sodium metasulphobenzoate
+C0891604,lithium hydroxide monohydrate
+C0892282,piperazine hexahydrate
+C0892285,piperazine sulfate
+C0893761,lacosamide
+C0894727,methampicillin sodium
+C0903411,tafenoquine
+C0903898,nateglinide
+C0907349,nelarabine
+C0907402,insulin glargine
+C0907410,telithromycin
+C0907850,ciclesonide
+C0908935,desloratadine
+C0909381,valganciclovir
+C0909839,emtricitabine
+C0913246,valdecoxib
+C0913469,pegvisomant
+C0913506,prucalopride
+C0914729,almotriptan
+C0916062,bemiparin
+C0916906,encainide hydrochloride
+C0917859,zolazepam hydrochloride
+C0919270,fosfestrol tetrasodium
+C0919292,strontium-89 chloride
+C0919352,cephalexin hydrochloride
+C0935916,fulvestrant
+C0935942,caspofungin acetate
+C0935989,imatinib
+C0936072,amantadine hydrochloride
+C0936073,thiopental sodium
+C0936126,fenugreek seed meal
+C0936142,pemetrexed disodium
+C0936148,posaconazole
+C0937606,carbetapentane citrate
+C0937609,choriogonadotropin alfa
+C0937621,ephedrine hydrate
+C0937622,esomeprazole magnesium
+C0937640,milk thistle extract
+C0937846,esomeprazole
+C0937895,stannous iodide
+C0937898,almotriptan malate
+C0937916,travoprost
+C0937917,bimatoprost
+C0937926,valganciclovir hydrochloride
+C0937930,barnidipine hydrochloride
+C0937932,rasburicase
+C0937950,darbepoetin alfa
+C0938482,ibopamine hydrochloride
+C0939234,hylan g-f 20
+C0939537,imatinib mesylate
+C0939539,"ziprasidone hydrochloride, monohydrate"
+C0939803,goldenseal extract
+C0939804,kelp preparation
+C0939864,lemon extract
+C0939876,cat's claw preparation
+C0939882,kava preparation
+C0939895,ginger extract
+C0939899,cinnamon preparation
+C0939905,oats preparation
+C0947608,soybean preparation
+C0947651,silver preparation
+C0949117,onion extract
+C0949217,"amiloride hydrochloride, anhydrous"
+C0949307,formalin
+C0949312,galantamine hydrobromide
+C0949322,glycine hydrochloride
+C0949359,methotrexate sodium
+C0950387,cinoxate
+C0951315,ethylnorepinephrine hydrochloride
+C0951398,pipamperone dihydrochloride
+C0957500,temafloxacin hydrochloride
+C0960052,phendimetrazine hydrochloride
+C0961209,nepafenac
+C0961485,eplerenone
+C0961781,spinosad
+C0961965,metreleptin
+C0962603,alefacept
+C0963398,tenofovir disoproxil
+C0965129,rosuvastatin
+C0965390,abarelix
+C0965618,roflumilast
+C0966107,conivaptan
+C0966225,omalizumab
+C0966500,"antihemophilic factor, human recombinant residues 743-1636 deleted"
+C0969324,mepolizumab
+C0969589,arformoterol
+C0971023,entecavir
+C0971579,vardenafil
+C0972079,cloperastine hydrochloride
+C0972333,vardenafil hydrochloride
+C0981808,acetylsalicylate sodium
+C0981817,"albumin,microsphere human serum"
+C0981839,aspergillus niger allergenic extract
+C0981840,aspergillus terreus allergenic extract
+C0981863,common sagebrush pollen extract
+C0981864,corn allergenic extract
+C0981880,false ragweed pollen extract
+C0981881,"allergenic extract, false ragweed pollen"
+C0981883,whole wheat allergenic extract
+C0981893,redtop grass pollen extract
+C0981911,house dust allergenic extract
+C0981919,june grass pollen extract
+C0981927,chrysonilia sitophila allergenic extract
+C0981931,mucor plumbeus allergenic extract
+C0981934,oat smut allergenic extract
+C0981937,pecan pollen extract
+C0981943,spiny pigweed pollen extract
+C0981944,"allergenic extract, pigweed, spiny, pollen"
+C0981959,rhizopus arrhizus allergenic extract
+C0981976,sugar beet allergenic extract
+C0981977,sugar beet pollen extract
+C0981982,timothy grass pollen extract
+C0981984,trichophyton mentagrophytes allergenic extract
+C0981986,walnut allergenic extract
+C0982005,corn smut allergenic extract
+C0982025,anti-inhibitor coagulant complex
+C0982034,"bcg, live, montreal strain"
+C0982038,belladonna leaf extract
+C0982057,carboxymethylcellulose calcium
+C0982074,cherry juice
+C0982090,cocoamphodiacetate
+C0982111,d-biotin
+C0982118,dexrazoxane hydrochloride
+C0982121,diltiazem maleate
+C0982134,egg yolk phospholipids
+C0982139,racepinephrine hydrochloride
+C0982156,"fibrinogen,i-125"
+C0982166,fomivirsen sodium
+C0982192,"heparin sodium, porcine"
+C0982200,hydrocodone resin complex
+C0982206,hydroxypropyl methylcellulose 2208
+C0982207,hydroxypropyl methylcellulose 2910
+C0982211,indomethacin sodium
+C0982217,"lente insulin, beef-pork"
+C0982219,"lente insulin, human"
+C0982221,"insulin lispro protamine, human"
+C0982224,"insulin, protamine zinc, beef-pork"
+C0982226,"insulin, regular, beef"
+C0982233,"interferon alfa-3n,human leukocyte derived"
+C0982282,metipranolol hydrochloride
+C0982292,nafcillin sodium monohydrate
+C0982304,orris allergenic extract
+C0982310,peg-100 stearate
+C0982314,peg-4 dilaurate
+C0982340,phenyltoloxamine resin complex
+C0982361,promethazine hydrobromide
+C0982363,propylene glycol monostearate
+C0982366,psyllium hydrocolloid
+C0982369,"psyllium seed coatings,blond"
+C0982388,trisodium citrate anhydrous
+C0982395,sodium phosphate dihydrate
+C0982396,"sodium phosphate, dibasic, anhydrous"
+C0982435,thiobutabarbital sodium
+C0982437,"tocopheryl acid succinate,d-alpha"
+C0982443,undecylenate
+C0991769,"albumin,aggregated"
+C0991776,curvularia inequalis allergenic extract
+C0991794,"ammonia spirit, aromatic"
+C0991811,cobalamin concentrate
+C0991832,"insulin isophane, beef"
+C0991847,magnesium acetate tetrahydrate
+C0991853,nicotinamide hydriodide
+C0991869,propylene glycol diacetate
+C0993202,alternaria alternata allergenic extract
+C0993223,"insulin isophane, beef-pork"
+C0993224,medronate disodium
+C0994472,dl-alpha tocopheryl acetate
+C0994494,parsley extract
+C0995001,flaxseed extract
+C0995182,aloe vera preparation
+C0995188,cetuximab
+C1095801,spearmint extract
+C1095803,capsicum extract
+C1095897,astragalus preparation
+C1095902,thyme preparation
+C1095904,clove preparation
+C1095905,beets preparation
+C1095911,wheat preparation
+C1095916,gotu kola extract
+C1098261,safinamide
+C1098320,olmesartan
+C1098510,fondaparinux
+C1099414,pimecrolimus
+C1099456,escitalopram
+C1099664,fondaparinux sodium
+C1099677,solifenacin
+C1099776,tenofovir disoproxil fumarate
+C1099777,frovatriptan succinate
+C1101751,rosuvastatin calcium
+C1101838,pitavastatin
+C1110619,papaya extract
+C1113707,dimethicone
+C1118156,thyroid (beef)
+C1119918,ginseng preparation
+C1120106,ertapenem
+C1120110,aliskiren
+C1120386,micafungin
+C1120952,norelgestromin
+C1121849,vandetanib
+C1122087,adalimumab
+C1122338,bacampicillin hydrochloride
+C1122962,gefitinib
+C1122975,angelica sinensis preparation
+C1134467,methyl 5-aminolevulinate
+C1134659,aflibercept
+C1135132,ixabepilone
+C1135135,erlotinib
+C1135662,dornase alfa
+C1136535,pegfilgrastim
+C1137102,triptorelin pamoate
+C1137427,agalsidase beta
+C1137921,tegaserod maleate
+C1138626,cocoa extract
+C1141639,human chorionic gonadotropin
+C1142738,anidulafungin
+C1142985,ezetimibe
+C1143018,obeticholic acid
+C1144149,lenalidomide
+C1144403,oritavancin
+C1144481,treprostinil sodium
+C1145666,piperazine citrate
+C1145701,amphotericin b liposomal
+C1145759,atazanavir
+C1145760,treprostinil
+C1165353,anhydrous dextrose
+C1165377,"sodium phosphate, monobasic, anhydrous"
+C1166177,histamine hydrochloride
+C1169997,dexmethylphenidate
+C1170000,drotrecogin alfa
+C1170011,"insulin aspart protamine, human"
+C1170741,atomoxetine hydrochloride
+C1170742,dexchlorpheniramine tannate
+C1170743,dexmethylphenidate hydrochloride
+C1170744,"drotrecogin alfa (activated), lyophilized"
+C1170745,ertapenem sodium
+C1170746,escitalopram oxalate
+C1170754,ziprasidone mesylate
+C1171274,levobetaxolol
+C1172636,dalbavancin
+C1172734,natalizumab
+C1174779,pramlintide acetate
+C1174893,levocetirizine
+C1174995,efalizumab
+C1176020,sunitinib
+C1176308,tolvaptan
+C1176309,bortezomib
+C1176315,fosamprenavir
+C1176316,tadalafil
+C1176329,ambrisentan
+C1176383,atazanavir sulfate
+C1178484,diphenhydramine tannate
+C1178489,eletriptan hydrobromide
+C1178502,levocarnitine fumarate
+C1178580,fenugreek seed preparation
+C1260199,cinacalcet hydrochloride
+C1260298,tigecycline
+C1268876,follitropin alfa
+C1271551,aminophylline hydrate
+C1271607,lutropin alfa
+C1273036,quinine dihydrochloride
+C1273043,somatropin (recombinant dna origin)
+C1273044,"somatropin, e-coli derived"
+C1274086,zinc sulfate monohydrate
+C1289957,meclofenamate
+C1289972,daunorubicin citrate
+C1302054,laronidase
+C1306772,tiotropium bromide
+C1307126,"factor viii, human"
+C1311070,trabectedin
+C1313052,tasimelteon
+C1313386,"insulin glulisine, human"
+C1313616,ospemifene
+C1318649,carglumic acid
+C1321596,miglustat
+C1321598,panthenol
+C1321643,levocetirizine dihydrochloride
+C1321660,fosamprenavir calcium
+C1321744,gemifloxacin mesylate
+C1321982,codeine hydrochloride
+C1323100,"tocopherol,dl-alpha"
+C1328025,pertuzumab
+C1328071,methoxy polyethylene glycol-epoetin beta
+C1330620,brompheniramine tannate
+C1330622,estradiol acetate
+C1331034,amphetamine aspartate monohydrate
+C1331203,carbinoxamine tannate
+C1337137,pseudoephedrine polistirex
+C1337140,cefadroxil hydrate
+C1337234,levocarnitine tartrate
+C1337241,esomeprazole sodium
+C1337242,cinacalcet
+C1337342,bovine thrombin
+C1337395,mycophenolate sodium
+C1365493,bemiparin sodium
+C1365510,paroxetine mesylate
+C1367202,ipilimumab
+C1369325,gallopamil hydrochloride
+C1372952,varicella zoster immune globulin (human)
+C1383389,chloroquine hydrochloride
+C1434792,ibalizumab
+C1435444,darunavir
+C1435749,melphalan flufenamide
+C1436328,eszopiclone
+C1445421,aspergillus fumigatus allergenic extract
+C1445424,botrytis cinerea allergenic extract
+C1445426,chaetomium globosum allergenic extract
+C1445427,cladosporium herbarum allergenic extract
+C1445698,"heparin sodium, bovine"
+C1450857,tafenoquine succinate
+C1451502,tafluprost
+C1453642,telavancin
+C1453933,telbivudine
+C1455035,degarelix
+C1455147,dasatinib
+C1456409,etravirine
+C1504917,lapatinib ditosylate
+C1505020,duloxetine hydrochloride
+C1506770,lapatinib
+C1508746,egg extract
+C1509436,solifenacin succinate
+C1509560,magnesium glycinate
+C1509873,acetylcarnitine hydrochloride
+C1509932,chondroitin sulfate a sodium
+C1516119,sorafenib
+C1522690,doxorubicin hydrochloride liposome
+C1527027,romidepsin
+C1529800,bosentan monohydrate
+C1530072,vilazodone
+C1530889,teduglutide
+C1533126,milnacipran
+C1533491,erlotinib hydrochloride
+C1533643,glycolic acid
+C1533699,gemtuzumab ozogamicin
+C1541483,eculizumab
+C1564716,fendiline hydrochloride
+C1565316,ramelteon
+C1565750,sitagliptin
+C1566537,ranibizumab
+C1566826,rilpivirine
+C1567130,inotuzumab ozogamicin
+C1571574,bazedoxifene acetate
+C1571583,dabigatran etexilate
+C1572407,wheat smut allergenic extract
+C1572489,magnesium sulfate anhydrous
+C1576818,levalbuterol tartrate
+C1576821,micafungin sodium
+C1576966,tacrolimus monohydrate
+C1577018,cyclosporine microemulsion
+C1577176,darifenacin hydrobromide
+C1577317,ziconotide acetate
+C1577331,"hyaluronidase, ovine"
+C1579348,glycopeptide antibacterial [epc]
+C1579349,nitrofuran antibacterial [epc]
+C1579365,polyene antifungal [epc]
+C1579389,tiotropium bromide monohydrate
+C1579393,formoterol fumarate dihydrate
+C1589331,botulism immune globulin iv human
+C1601311,dextromethorphan hydroiodide
+C1601983,amphetamine saccharate
+C1608295,articaine
+C1608841,ustekinumab
+C1609165,tocilizumab
+C1609931,siltuximab
+C1611934,saxagliptin
+C1615645,rasagiline mesylate
+C1615657,galsulfase
+C1615665,"hyaluronidase, bovine"
+C1619629,deferasirox
+C1619966,abatacept
+C1621234,interferon alfa-n3
+C1646276,flunisolide anhydrous
+C1648700,"alanine, dl-"
+C1653590,naloxone hydrochloride dihydrate
+C1654782,hydrocodone tannate
+C1655449,povidone k30
+C1656013,zinc gluconate trihydrate
+C1657054,"monobasic sodium phosphate, dihydrate"
+C1657077,calcium gluconate monohydrate
+C1657537,dextrose hydrous
+C1658209,dexamethasone acetate anhydrous
+C1664205,bedaquiline
+C1667052,maraviroc
+C1667080,sitagliptin phosphate
+C1675326,peramivir
+C1676709,sorafenib tosylate
+C1678805,apremilast
+C1684405,lubiprostone
+C1685365,ivabradine hydrochloride
+C1690432,denosumab
+C1692318,docusate
+C1695579,alglucosidase alfa
+C1699236,"synthetic conjugated estrogens, b"
+C1699861,brivaracetam
+C1699926,fingolimod
+C1700196,conivaptan hydrochloride
+C1700683,rotigotine
+C1700685,sunitinib malate
+C1700874,axitinib
+C1701455,armodafinil
+C1703334,retapamulin
+C1703576,immune globulin subcutaneous (human)
+C1705480,vasopressin (usp)
+C1706668,sipuleucel-t
+C1707080,temsirolimus
+C1707321,cefadroxil hemihydrate
+C1709373,oxaprozin potassium
+C1714006,fentanyl hydrochloride
+C1714033,wheat dextrin
+C1718383,teriflunomide
+C1720035,"hyaluronidase, human recombinant"
+C1721288,sevelamer carbonate
+C1721300,pralatrexate
+C1721339,bremelanotide
+C1721377,nilotinib
+C1722260,indacaterol
+C1722267,pimavanserin
+C1722685,ecallantide
+C1723019,bepotastine besilate
+C1723401,belimumab
+C1725449,perindopril arginine
+C1725651,darunavir ethanolate
+C1738934,boceprevir
+C1739462,idursulfase
+C1739768,rivaroxaban
+C1739826,lisdexamfetamine dimesylate
+C1742884,desvenlafaxine succinate
+C1802750,oil of garlic
+C1814684,arformoterol tartrate
+C1815010,carvedilol phosphate
+C1829170,dexbrompheniramine tannate
+C1831731,bosutinib
+C1831796,pazopanib
+C1831808,apixaban
+C1831828,talimogene laherparepvec
+C1831905,eltrombopag
+C1832021,isavuconazole
+C1832027,ofatumumab
+C1832049,elotuzumab
+C1869620,reslizumab
+C1869686,cefovecin
+C1870115,silodosin
+C1871526,raltegravir
+C1872109,certolizumab pegol
+C1872203,pasireotide
+C1873633,lisdexamfetamine
+C1874267,anti-anginal [epc]
+C1875875,"edetate disodium, anhydrous"
+C1876200,tesamorelin
+C1876229,telaprevir
+C1876722,beta-d-glucopyranose
+C1879678,aliskiren hemifumarate
+C1880207,cyclophosphamide anhydrous
+C1880288,desvenlafaxine
+C1880412,dronedarone hydrochloride
+C1880492,eltrombopag olamine
+C1881339,carbidopa anhydrous
+C1881372,levoleucovorin calcium
+C1881785,mercaptopurine anhydrous
+C1881787,meropenem anhydrous
+C1882138,ocrelizumab
+C1882305,pazopanib hydrochloride
+C1882383,piperacillin anhydrous
+C1882959,ropivacaine hydrochloride monohydrate
+C1883053,"sodium phosphate, dibasic, dihydrate"
+C1883054,"sodium phosphate, dibasic, dodecahydrate"
+C1883055,"sodium phosphate, tribasic anhydrous"
+C1883309,thioguanine anhydrous
+C1948068,belinostat
+C1948374,fluticasone furoate
+C1950681,triprolidine tannate
+C1950816,flunisolide hemihydrate
+C1955474,plerixafor
+C1956280,luliconazole
+C1958126,alogliptin
+C1958569,azilsartan
+C1960918,vardenafil hydrochloride trihydrate
+C1961039,paclitaxel protein-bound
+C1965895,methyl aminolevulinate hydrochloride
+C1966347,lithium aspartate
+C1966407,raltegravir potassium
+C1996349,sapropterin dihydrochloride
+C1998098,panobinostat
+C1999896,alpha-tocopherol acetate
+C2000088,asenapine
+C2000145,selexipag
+C2000261,linaclotide
+C2001271,tapentadol
+C2001521,ceftaroline
+C2001525,ceftaroline fosamil
+C2001856,carfilzomib
+C2003424,lurasidone
+C2240523,thrombin alfa
+C2241271,terazosin hydrochloride anhydrous
+C2266930,macrolide antibacterial [epc]
+C2266931,pleuromutilin antibacterial [epc]
+C2266932,nitroimidazole antimicrobial [epc]
+C2266935,lincosamide antibacterial [epc]
+C2266945,cytomegalovirus nucleoside analog dna polymerase inhibitor [epc]
+C2266946,human immunodeficiency virus nucleoside analog reverse transcriptase inhibitor [epc]
+C2266947,human immunodeficiency virus 1 non-nucleoside analog reverse transcriptase inhibitor [epc]
+C2266948,human immunodeficiency virus 1 non-nucleoside and nucleoside analog reverse transcriptase inhibitors [epc]
+C2266949,nucleoside analog antifungal [epc]
+C2266950,herpesvirus nucleoside analog dna polymerase inhibitor [epc]
+C2266953,influenza neuraminidase inhibitor [epc]
+C2266956,aminoglycoside antimicrobial [epc]
+C2266958,amphenicol-class antibacterial [epc]
+C2266959,cephalosporin antibacterial [epc]
+C2266960,dihydrofolate reductase inhibitor antibacterial [epc]
+C2266961,dihydrofolate reductase inhibitor antiprotozoal [epc]
+C2266962,ketolide antibacterial [epc]
+C2266963,monobactam antibacterial [epc]
+C2266964,penem antibacterial [epc]
+C2266966,polymyxin-class antibacterial [epc]
+C2266967,rifamycin antibacterial [epc]
+C2266968,rifamycin antimycobacterial [epc]
+C2266969,streptogramin antibacterial [epc]
+C2266970,sulfonamide antibacterial [epc]
+C2266971,sulfonamide antimicrobial [epc]
+C2266972,tetracycline-class antimicrobial [epc]
+C2266973,rifamycin antimicrobial [epc]
+C2266974,echinocandin antifungal [epc]
+C2266976,lipopeptide antibacterial [epc]
+C2266977,lipid-based polyene antifungal [epc]
+C2266978,methylated sulfonamide antibacterial [epc]
+C2266982,rna synthetase inhibitor antibacterial [epc]
+C2267040,human immunodeficiency virus 1 fusion inhibitor [epc]
+C2267047,respiratory syncytial virus anti-f protein monoclonal antibody [epc]
+C2267074,hepatitis b virus nucleoside analog reverse transcriptase inhibitor [epc]
+C2315497,levoleucovorin calcium pentahydrate
+C2316164,olaparib
+C2316497,bupropion hydrobromide
+C2343589,rilonacept
+C2343849,dabigatran etexilate mesylate
+C2343853,fesoterodine
+C2343854,fesoterodine fumarate
+C2343921,methylnaltrexone bromide
+C2346801,daratumumab
+C2346927,magnesium cation
+C2346970,bazedoxifene
+C2347624,pomalidomide
+C2347779,clevidipine butyrate
+C2348241,alcaftadine
+C2348248,dexlansoprazole
+C2350089,tramadol hydrochloride
+C2350656,pegloticase
+C2350866,eribulin
+C2350948,lorcaserin
+C2351042,besifloxacin
+C2352806,necitumumab
+C2353893,golimumab
+C2353951,dapagliflozin
+C2364481,romiplostim
+C2366367,c1 esterase inhibitor (human)
+C2368865,levoleucovorin disodium
+C2369149,thrombin (human)
+C2587184,fibrinogen concentrate (human)
+C2587204,thyrotropin alfa
+C2604635,mipomersen
+C2605855,simeprevir
+C2606556,macitentan
+C2606637,elvitegravir
+C2607219,voclosporin
+C2607479,albiglutide
+C2607621,pimavanserin tartrate
+C2607750,afamelanotide
+C2607886,abiraterone acetate
+C2608038,eribulin mesylate
+C2608107,fostamatinib disodium
+C2684343,bermuda grass pollen extract
+C2684348,kentucky bluegrass pollen extract
+C2684757,cat skin extract
+C2697593,d-alpha-tocopheryl acetate
+C2697594,"alpha-tocopherol succinate, d-"
+C2697674,indinavir anhydrous
+C2697837,kanamycin a sulfate
+C2697942,lorcaserin hydrochloride
+C2697950,lurasidone hydrochloride
+C2697961,trametinib
+C2698003,magnesium chloride anhydrous
+C2698057,alogliptin benzoate
+C2698152,olaratumab
+C2698183,argatroban anhydrous
+C2698220,migalastat
+C2698221,migalastat hydrochloride
+C2698280,avanafil
+C2698290,azilsartan kamedoxomil
+C2698291,azilsartan medoxomil
+C2698292,azithromycin anhydrous
+C2698371,bepotastine
+C2698647,olanzapine pamoate
+C2698682,oxytetracycline anhydrous
+C2698692,idelalisib
+C2698764,perampanel
+C2698868,prasterone sodium sulfate
+C2699131,cefaclor anhydrous
+C2699132,cefadroxil anhydrous
+C2699141,cefovecin sodium
+C2699143,cefprozil anhydrous
+C2699162,cephalexin anhydrous
+C2699210,cidofovir anhydrous
+C2699273,saxagliptin anhydrous
+C2699326,"sodium phosphate, tribasic, dodecahydrate"
+C2699543,"arginine, d-"
+C2699547,"arginine, dl-"
+C2699562,dasatinib anhydrous
+C2699709,calaspargase pegol
+C2699757,aclidinium
+C2699758,aclidinium bromide
+C2699808,doxycycline anhydrous
+C2699951,tioxolone
+C2699999,entecavir anhydrous
+C2700226,gabapentin enacarbil
+C2700247,vidarabine anhydrous
+C2700331,zinc sulfate anhydrous
+C2700334,zoledronic acid anhydrous
+C2701206,western ragweed pollen extract
+C2701231,corn pollen extract
+C2701243,mugwort sage pollen extract
+C2701282,dandelion pollen extract
+C2701305,aureobasidium pullulans var. pullutans allergenic extract
+C2701339,johnson grass pollen extract
+C2701415,smooth brome pollen extract
+C2701451,domestic cow skin extract
+C2701564,cochliobolus sativus allergenic extract
+C2701576,beech pollen extract
+C2701586,cotton seed allergenic extract
+C2702310,almond allergenic extract
+C2702333,"immunoglobulin g, human"
+C2710874,tapentadol hydrochloride
+C2713008,neratinib
+C2713074,calcifediol anhydrous
+C2713595,tecovirimat
+C2713632,fostamatinib
+C2714632,elagolix
+C2717021,moxetumomab pasudotox
+C2717539,levamlodipine
+C2717561,riociguat
+C2718533,degarelix acetate
+C2718773,canakinumab
+C2719424,abobotulinumtoxina
+C2719430,rimabotulinumtoxinb
+C2719618,asenapine maleate
+C2719626,paliperidone palmitate
+C2719767,onabotulinumtoxina
+C2719771,saxagliptin hydrochloride
+C2720023,pitavastatin calcium
+C2721771,levoleucovorin
+C2721779,guafacine hydrochloride
+C2722030,dog skin extract
+C2723729,rabbit skin extract
+C2723734,rhodotorula rubra allergenic extract
+C2725260,eslicarbazepine
+C2725262,eslicarbazepine acetate
+C2726165,trichoderma viride allergenic extract
+C2726167,trichothecium roseum allergenic extract
+C2726765,agkistrodon piscivorus antivenin
+C2726767,crotalus adamanteus antivenin
+C2726769,crotalus atrox antivenin
+C2726771,crotalus scutulatus antivenin
+C2726834,spectinomycin sulfate tetrahydrate
+C2726929,olanzapine pamoate monohydrate
+C2727836,eurotium herbariorum allergenic extract
+C2730005,telavancin hydrochloride
+C2731839,short ragweed pollen extract
+C2732002,"antihemophilic factor, human recombinant"
+C2742502,ramucirumab
+C2742503,obinutuzumab
+C2742797,vedolizumab
+C2744440,niraparib
+C2744850,tedizolid
+C2744960,crofelemer
+C2746078,linagliptin
+C2746305,gonadorelin diacetate tetrahydrate
+C2747171,trelstar pamoate
+C2756198,rhizopus stolonifer allergenic extract
+C2756584,prucalopride succinate
+C2756728,lidocaine hydrochloride anhydrous
+C2825044,dehydrated alcohol
+C2825286,finafloxacin
+C2825339,"budesonide (11.beta.,16.alpha.(s))"
+C2825383,ethanolamine hydrochloride
+C2825457,bosentan anhydrous
+C2825462,levomefolic acid
+C2825616,esketamine
+C2825682,ingenol mebutate
+C2825840,telotristat etiprate
+C2826073,povidone k90
+C2826076,nonacog alfa
+C2826077,"factor vii, human"
+C2826078,"coagulation factor x, human"
+C2826352,povidone k12
+C2826354,ixazomib citrate
+C2827178,hydroxyethyl cellulose (2000 cps at 1%)
+C2827241,lomitapide
+C2827242,lomitapide mesylate
+C2827257,lisinopril anhydrous
+C2827667,tivozanib
+C2828218,mirtazapine hemihydrate
+C2828271,levomefolate calcium
+C2828282,amoxicillin anhydrous
+C2828290,delafloxacin
+C2828294,iodide ion i-131
+C2828343,"sodium phosphate, tribasic, monohydrate"
+C2830183,cabazitaxel
+C2917064,amifampridine phosphate
+C2917325,cephamycin antibacterial [epc]
+C2917326,cytomegalovirus pyrophosphate analog dna polymerase inhibitor [epc]
+C2917336,benzylamine antifungal [epc]
+C2917342,antidote for acetaminophen overdose [epc]
+C2917353,macrolide antimicrobial [epc]
+C2917369,herpes simplex virus nucleoside analog dna polymerase inhibitor [epc]
+C2917370,herpes simplex virus pyrophosphate analog dna polymerase inhibitor [epc]
+C2917372,herpes zoster virus nucleoside analog dna polymerase inhibitor [epc]
+C2917373,human immunodeficiency virus integrase strand transfer inhibitor [epc]
+C2917385,dihydrofolate reductase inhibitor antimalarial [epc]
+C2917386,dihydrofolate reductase inhibitor antimicrobial [epc]
+C2917392,typical antipsychotic [epc]
+C2917393,tetracycline-class antibacterial [epc]
+C2917406,polyene antimicrobial [epc]
+C2917419,quinolone antimicrobial [epc]
+C2917434,narcotic antitussive [epc]
+C2917435,mood stabilizer [epc]
+C2917436,non-narcotic antitussive [epc]
+C2919267,velaglucerase alfa
+C2920417,indacaterol maleate
+C2927611,levocarnitine hydrochloride
+C2930113,incobotulinumtoxina
+C2930696,tofacitinib
+C2930762,tedizolid phosphate
+C2930789,nintedanib
+C2931926,ruxolitinib
+C2933912,opicapone
+C2934004,fosdenopterin
+C2934193,olodaterol
+C2934701,ponesimod
+C2935023,vilanterol
+C2935436,ado-trastuzumab emtansine
+C2936870,cariprazine
+C2937701,arginine aminobenzoate
+C2939773,levomefolate
+C2940103,methylcellulose (4000 cps)
+C2948081,camphor (natural)
+C2948222,dimethicone 410
+C2949506,hypromellose 2910 (4000 mpa.s)
+C2955460,ceftaroline fosamil acetate
+C2955463,tesamorelin acetate
+C2962546,vilazodone hydrochloride
+C2973446,brentuximab vedotin
+C2973895,lixisenatide
+C2974289,crizotinib
+C2974521,vorapaxar
+C2974540,canagliflozin
+C2975435,edoxaban
+C2976303,sofosbuvir
+C2979805,"factor xiii, human"
+C2980074,selumetinib
+C2980094,regorafenib
+C2981174,ponatinib hydrochloride
+C2982078,benralizumab
+C2983812,mirabegron
+C2983838,omadacycline
+C2983887,timolol anhydrous
+C2983899,ceftazidime anhydrous
+C2983911,"chondroitin sulfate, bovine"
+C2983945,ozenoxacin
+C2983989,canagliflozin anhydrous
+C2986924,lenvatinib
+C2987007,selumetinib sulfate
+C2987417,ponatinib
+C2987429,teprotumumab
+C2987430,dacomitinib
+C2987431,tofacitinib citrate
+C2987603,mogamulizumab
+C2987642,lenvatinib mesylate
+C2987648,afatinib
+C2987716,vismodegib
+C3154113,hypromellose 2910 (3 mpa.s)
+C3154850,rilpivirine hydrochloride
+C3160091,hepatitis c virus ns3/4a protease inhibitor [epc]
+C3162633,vitamin e acetate
+C3177235,cobicistat
+C3179535,suvorexant
+C3179547,secukinumab
+C3179549,dulaglutide
+C3181682,cabozantinib
+C3192263,vemurafenib
+C3204554,centruroides (scorpion) immune f(ab')2 (equine)
+C3205039,hypromellose 2906 (4000 mpa.s)
+C3205052,hypromellose 2906 (50 mpa.s)
+C3247907,ruxolitinib phosphate
+C3252090,daclatasvir
+C3253985,dolutegravir
+C3254591,infigratinib
+C3255087,chondroitin sulfate sodium (bovine)
+C3255771,etidronate tetrasodium
+C3255821,methylcellulose (100 cps)
+C3255861,"panthenol triacetate, (+)-"
+C3255909,"chondroitin sulfate, porcine"
+C3255944,magnesium sulfate monohydrate
+C3255999,hydroxyethyl cellulose (4000 cps at 1%)
+C3256005,hypromellose 2208 (100 mpa.s)
+C3256006,hypromellose 2208 (15000 mpa.s)
+C3256007,hypromellose 2910 (15 mpa.s)
+C3256008,hypromellose 2910 (5 mpa.s)
+C3256009,hypromellose 2910 (50 mpa.s)
+C3256010,hypromellose 2910 (6 cps)
+C3256046,hydroxyethyl cellulose (5000 cps at 1%)
+C3256051,hypromellose 2208 (100000 mpa.s)
+C3256052,hypromellose 2208 (3 mpa.s)
+C3256053,hypromellose 2208 (4000 cps)
+C3256054,hypromellose 2910 (15000 mpa.s)
+C3256154,dimethicone 100
+C3256324,"acetylcarnitine, dl-"
+C3256380,stannous fluoride dihydrate
+C3256457,tromethamine hydrochloride
+C3256589,adenosine phosphate disodium
+C3256616,floxacillin sodium monohydrate
+C3256664,"calcium phosphate, monobasic, anhydrous"
+C3256748,disodium hydrogen phosphate dehydrate
+C3256750,dried sodium phosphate
+C3256930,sodium dihydrogen phosphate dihydrate
+C3257022,povidone (k-30) simethicone emulsion
+C3257534,wheat bran extract
+C3264621,ivacaftor
+C3265310,sage extract
+C3265535,"sodium phosphate, dibasic, monohydrate"
+C3265584,carnitine chloride
+C3272344,lutetium lu 177 dotatate
+C3272698,eliglustat
+C3272699,eliglustat tartrate
+C3272851,edoxaban tosylate
+C3273321,afatinib dimaleate
+C3273401,taliglucerase alfa
+C3273711,ixazomib
+C3273719,rolapitant
+C3273721,rolapitant hydrochloride
+C3273754,efinaconazole
+C3273776,omadacycline tosylate
+C3282847,"alpha-tocopherol linoleate, d-"
+C3463896,atorvastatin calcium trihydrate
+C3467876,dabrafenib
+C3468008,cabozantinib s-malate
+C3472162,aminophylline dihydrate
+C3473003,chondroitin sulfate sodium (porcine)
+C3474001,calcipotriene hydrate
+C3474074,hydroxyethyl cellulose (1500 mpa.s at 1%)
+C3484509,"alcohol, x-ray exposed (1000 rad)"
+C3485619,ziv-aflibercept
+C3486462,cefdinir monohydrate
+C3486650,quinine salicylate
+C3489575,"sennosides, usp"
+C3489748,avibactam
+C3489764,ixekizumab
+C3490348,empagliflozin
+C3490795,asfotase alfa
+C3491162,alirocumab
+C3491331,brodalumab
+C3491971,insulin degludec
+C3491974,asunaprevir
+C3495122,juniperus communis fruit extract
+C3495135,"magnesium phosphate, tribasic, pentahydrate"
+C3495425,ipratropium bromide monohydrate
+C3495437,lysine monohydrate
+C3495450,paroxetine hydrochloride anhydrous
+C3496793,enzalutamide
+C3497849,bosutinib monohydrate
+C3500827,risedronate sodium hemi-pentahydrate
+C3500828,risedronate sodium monohydrate
+C3501358,ibrutinib
+C3502652,plazomicin
+C3505264,chondroitin sulfate sodium (shark)
+C3528000,omacetaxine
+C3528226,ziprasidone hydrochloride anhydrous
+C3529078,pasireotide diaspartate
+C3529352,evolocumab
+C3529563,turoctocog alfa
+C3529778,nintedanib esylate
+C3529928,pitolisant
+C3530515,bedaquiline fumarate
+C3535694,mipomersen sodium
+C3536707,pediculicide [epc]
+C3536759,azole antifungal [epc]
+C3536760,antimycobacterial [epc]
+C3536819,tricyclic antidepressant [epc]
+C3536838,antihelminthic [epc]
+C3536839,antiseptic [epc]
+C3536841,aminoglycoside antibacterial [epc]
+C3536842,antidiarrheal [epc]
+C3536843,antidote [epc]
+C3536844,antimalarial [epc]
+C3536845,antiparasitic [epc]
+C3536846,antiprotozoal [epc]
+C3536907,quinolone antibacterial [epc]
+C3536912,human immunodeficiency virus protease inhibitor [epc]
+C3536926,antirheumatic agent [epc]
+C3536965,sulfate ion
+C3536993,antiemetic [epc]
+C3536998,oxazolidinone antibacterial [epc]
+C3537002,anti-epileptic agent [epc]
+C3537043,atypical antipsychotic [epc]
+C3537142,antiarrhythmic [epc]
+C3537186,penicillin-class antibacterial [epc]
+C3537228,allylamine antifungal [epc]
+C3537278,amifostine anhydrous
+C3537697,regorafenib monohydrate
+C3538037,carboxymethylcellulose sodium (0.7 carboxymethyl substitution per saccharide; 100-200 mpa.s at 1%)
+C3538368,levothyroxine sodium anhydrous
+C3539953,dolutegravir sodium
+C3540733,esomeprazole strontium
+C3541367,levomilnacipran
+C3542463,tbo-filgrastim
+C3555514,bupivacaine hydrochloride anhydrous
+C3555622,dapagliflozin propanediol
+C3642425,safinamide mesylate
+C3642427,tavaborole
+C3643467,diarylquinoline antimycobacterial [epc]
+C3644419,vilanterol trifenatate
+C3644500,trametinib dimethyl sulfoxide
+C3644554,dabrafenib mesylate
+C3645709,calcium chloride anhydrous
+C3657270,nivolumab
+C3657824,siponimod
+C3658706,pembrolizumab
+C3659310,bempedoic acid
+C3660996,dupilumab
+C3661274,umeclidinium
+C3661282,vortioxetine
+C3661283,romosozumab
+C3661315,rucaparib
+C3661457,levofloxacin anhydrous
+C3661459,hyoscyamine sulfate anhydrous
+C3661490,cefixime anhydrous
+C3661518,ipratropium bromide anhydrous
+C3663521,levomilnacipran hydrochloride
+C3665261,"citric acid, 1-stearyl ester"
+C3667607,vortioxetine hydrobromide
+C3668537,"casein, lactococcus lactis cultured, penicillium roqueforti cultured, aged"
+C3695965,atorvastatin calcium propylene glycol solvate
+C3696072,simeprevir sodium
+C3696416,sucroferric oxyhydroxide
+C3700399,naloxegol
+C3700999,sucralfate malate
+C3709436,desvenlafaxine fumarate monohydrate
+C3709474,umeclidinium bromide
+C3709760,coagulation factor xiii a-subunit (recombinant)
+C3709933,treprostinil diolamine
+C3711911,plecanatide
+C3712232,eluxadoline
+C3713057,caplacizumab
+C3713860,lifitegrast
+C3713906,etelcalcetide
+C3713958,tenofovir alafenamide
+C3714572,pamidronic acid
+C3714624,methyldopa anhydrous
+C3714688,nevirapine hemihydrate
+C3814772,glycopyrronium
+C3817397,elosulfase alfa
+C3818693,vorapaxar sulfate
+C3818721,ceritinib
+C3818725,"corticotropin, human"
+C3818726,di-n-octyl sodium sulfosuccinate
+C3818973,esketamine hydrochloride
+C3832618,"carnitine hydrochloride, (+)-"
+C3833602,dalbavancin hydrochloride
+C3848530,edrophonium cation
+C3848531,methylene blue cation
+C3848541,olodaterol hydrochloride
+C3848550,ipratropium cation
+C3848552,gentian violet cation
+C3848556,pralidoxime cation
+C3848580,peginterferon beta-1a
+C3848583,gatifloxacin anhydrous
+C3848584,tenofovir anhydrous
+C3848586,codeine anhydrous
+C3851350,ledipasvir
+C3852217,guselkumab
+C3852512,dasabuvir
+C3852670,ombitasvir
+C3852671,selinexor
+C3852684,lumacaftor
+C3852726,ceftolozane
+C3852841,abemaciclib
+C3853822,palbociclib
+C3853839,blinatumomab
+C3853921,alectinib
+C3854019,gentamicin
+C3855806,levomefolate magnesium
+C3855966,antileishmanial [epc]
+C3856229,oritavancin diphosphate
+C3857933,acetylcysteine amide
+C3858079,tiotropium bromide mono
+C3859156,levomefolate glucosamine
+C3859426,"antihemophilic factor, porcine b-domain truncated recombinant"
+C3859597,"acetylcarnitine hydrochloride, dl-"
+C3859650,naloxegol oxalate
+C3860151,"follicle stimulating hormone, porcine"
+C3864822,carboxymethylcellulose sodium (0.7 carboxymethyl substitution per saccharide; 50-100 mpa.s at 1% )
+C3864824,paritaprevir
+C3872016,peramivir anhydrous
+C3872025,lorcaserin hydrochloride hemihydrate
+C3872026,ceftolozane sulfate
+C3872080,pasireotide pamoate
+C3883231,esomeprazole magnesium dihydrate
+C3883272,dasabuvir sodium monohydrate
+C3883273,ombitasvir heminonahydrate
+C3883274,paritaprevir dihydrate
+C3883355,lipoglycopeptide antibacterial [epc]
+C3883357,hepatitis c virus ns5a inhibitor [epc]
+C3883358,hepatitis c virus non-nucleoside ns5b palm polymerase inhibitor [epc]
+C3883363,oxaborole antifungal [epc]
+C3883805,"coagulation factor ix (recombinant), glycopegylated"
+C3884837,telotristat
+C3885063,idarucizumab
+C3885145,sarilumab
+C3885614,brexpiprazole
+C3886073,lesinurad
+C3886460,avatrombopag
+C3886623,fedratinib
+C3886731,sonidegib
+C3887607,aluminum chloride anhydrous
+C3887648,"norepinephrine, dl-"
+C3892852,daclatasvir dihydrochloride
+C3892863,filgrastim-sndz
+C3892871,avibactam sodium
+C3892878,panobinostat lactate
+C3896714,patisiran
+C3896936,relugolix
+C3896940,gilteritinib
+C3896946,gilteritinib fumarate
+C3898565,lurbinectedin
+C3899947,binimetinib
+C3899973,idecabtagene vicleucel
+C4018667,"menthol, (+)-"
+C4018766,pemetrexed disodium heptahydrate
+C4019900,crotalidae immune f(ab')2 (equine)
+C4020255,hepatitis c virus nucleotide analog ns5b polymerase inhibitor [epc]
+C4026559,codeine phosphate anhydrous
+C4026874,carboxymethylcellulose sodium (0.7 carboxymethyl substitution per saccharide; 400 mpa.s at 1%)
+C4033440,magnesium phosphate anhydrous
+C4042342,abaloparatide
+C4042960,talazoparib
+C4043101,aducanumab
+C4043480,tenapanor
+C4043954,tildrakizumab
+C4044947,baricitinib
+C4045491,doravirine
+C4045494,ribociclib
+C4045520,eravacycline
+C4045522,patiromer
+C4045824,sodium zirconium cyclosilicate
+C4046690,"propylene glycol, (s)-"
+C4046717,sonidegib phosphate
+C4048241,methylbenzethonium chloride
+C4048265,tetanus immune globulin
+C4048712,factor ix complex
+C4049141,copanlisib
+C4049146,cobimetinib
+C4053695,margetuximab
+C4053698,capmatinib
+C4055109,durvalumab
+C4055417,avelumab
+C4055433,atezolizumab
+C4055478,alpelisib
+C4056439,aripiprazole lauroxil
+C4056441,tipiracil
+C4056442,tipiracil hydrochloride
+C4058574,cariprazine hydrochloride
+C4058810,osimertinib mesylate
+C4058811,osimertinib
+C4058841,tenofovir alafenamide fumarate
+C4059023,"anthrax immune globulin, human"
+C4059024,anthrax immune globulin
+C4059057,cobimetinib fumarate
+C4059095,"botulinum neurotoxin b immune fab2, equine"
+C4059096,botulinum neurotoxin b immune fab2
+C4059106,"botulinum neurotoxin a immune fab2, equine"
+C4059107,botulinum neurotoxin a immune fab2
+C4059108,"botulinum neurotoxin c immune fab2, equine"
+C4059109,botulinum neurotoxin c immune fab2
+C4059110,"botulinum neurotoxin d immune fab2, equine"
+C4059111,botulinum neurotoxin d immune fab2
+C4059112,"botulinum neurotoxin e immune fab2, equine"
+C4059113,botulinum neurotoxin e immune fab2
+C4059114,"botulinum neurotoxin f immune fab2, equine"
+C4059115,botulinum neurotoxin f immune fab2
+C4059116,"botulinum neurotoxin g immune fab2, equine"
+C4059117,botulinum neurotoxin g immune fab2
+C4059915,alectinib hydrochloride
+C4060007,patiromer sorbitex calcium
+C4064080,simoctocog alfa
+C4078312,acalabrutinib
+C4078701,valbenazine
+C4078806,polatuzumab vedotin
+C4079208,encorafenib
+C4079582,velpatasvir
+C4079830,venetoclax
+C4079854,duvelisib
+C4079904,andexanet alfa
+C4080052,elbasvir
+C4080053,grazoprevir
+C4080091,lorlatinib
+C4080270,oxytocin acetate
+C4082558,"rho(d) immune globulin, human"
+C4082583,sodium thiosulfate anhydrous
+C4083099,nilotinib hydrochloride
+C4083129,ovine digoxin immune fab
+C4083210,"defibrotide, bovine lung"
+C4083516,"allantoin, (+)-"
+C4083872,antihemophilic factor (recombinant) pegylated
+C4084176,"sorbitol, l-"
+C4084478,albutrepenonacog alfa
+C4084530,potassium undecylenate
+C4084597,octopamine hydrochloride
+C4086001,lisocabtagene maraleucel
+C4086264,entrectinib
+C4086553,luspatercept
+C4086837,sacituzumab govitecan
+C4086895,tazemetostat
+C4224790,obiltoxaximab
+C4224791,defibrotide sodium
+C4237614,triethanolamine isostearate
+C4237723,chondroitin sulfate (shark)
+C4237724,glucosamine sulfate potassium chloride
+C4238106,infliximab-dyyb
+C4238806,magnesium aspartate anhydrous
+C4255551,grazoprevir anhydrous
+C4257011,lonoctocog alfa
+C4276022,lorcaserin hydrochloride anhydrous
+C4277781,deutetrabenazine
+C4278463,emicizumab
+C4278675,ozanimod
+C4279743,vibegron
+C4281713,hydroxypropylcellulose
+C4282572,aluminum hydroxide sulfate (al(oh)(so4))
+C4283417,acetylcysteine magnesium
+C4283710,eteplirsen
+C4287799,tepotinib
+C4287804,pexidartinib
+C4287815,brigatinib
+C4291320,bezlotoxumab
+C4291321,triethanolamine dioleate
+C4291322,vitamin a myristate
+C4291331,hydrolyzed casein (enzymatic; 1000 mw)
+C4291332,carboxymethylcellulose sodium (0.7 carboxymethyl substitutions per saccharide; 600 mpa.s at 2 %)
+C4291381,etanercept-szzs
+C4293264,"alpha,alpha-dibromo-d-camphor"
+C4294472,rucaparib camsylate
+C4300971,urea hydrochloride
+C4301236,nusinersen
+C4301607,burosumab
+C4301781,crisaborole
+C4305843,lumateperone
+C4306797,fluoroquinolone antibacterial [epc]
+C4309207,lusutrombopag
+C4310385,cabotegravir
+C4310440,pretomanid
+C4316853,minoxidil sulfate ester
+C4316864,risedronate sodium anhydrous
+C4317199,cephalosporium roseum extract
+C4317244,relebactam
+C4317559,telotristat ethyl
+C4317900,etelcalcetide hydrochloride
+C4318037,ribociclib succinate
+C4325235,naldemedine
+C4325236,naldemedine tosylate
+C4329353,apalutamide
+C4330502,isatuximab
+C4330903,osilodrostat
+C4475875,cerliponase alfa
+C4476176,valbenazine tosylate
+C4478126,moxifloxacin hydrochloride monohydrate
+C4482908,lefamulin
+C4490035,infliximab-abda
+C4490163,delafloxacin meglumine
+C4490726,tenofovir disoproxil succinate
+C4505511,risankizumab
+C4505936,ubrogepant
+C4507236,voxilaprevir
+C4507568,bictegravir
+C4508938,oliceridine
+C4511278,imipenem monohydrate
+C4518884,dacomitinib anhydrous
+C4519126,rimegepant
+C4519167,tucatinib
+C4519199,lasmiditan
+C4519213,trifarotene
+C4519220,fostemsavir
+C4519229,pegvaliase
+C4519232,revefenacin
+C4519258,abametapir
+C4519269,lemborexant
+C4519273,glasdegib
+C4519284,"2,2-bis(4-hydroxy-3-tert-butylphenyl)propane"
+C4519292,sarecycline
+C4519317,vaborbactam
+C4519323,erdafitinib
+C4519427,enasidenib mesylate
+C4519428,enasidenib
+C4519536,glecaprevir
+C4519537,pibrentasvir
+C4519542,neratinib maleate
+C4519594,inebilizumab
+C4519740,enfortumab vedotin
+C4519877,pitavastatin magnesium
+C4519897,relebactam anhydrous
+C4520025,triethanolamine hydriodide
+C4521099,amphotericin b lipid complex
+C4522829,pitavastatin sodium
+C4524315,larotrectinib
+C4528198,capmatinib hydrochloride
+C4529301,bevacizumab-awwb
+C4529725,hydroxocobalamin hydrochloride
+C4529817,propylene glycol propyl ether
+C4529820,propylene glycol 2-(2-methylbutyrate)
+C4529822,2-phenylpropanal propylene glycol acetal
+C4530556,adalimumab-adbm
+C4531009,potassium phosphate dibasic trihydrate
+C4534627,emicizumab-kxwh
+C4535390,adalimumab-atto
+C4535717,netarsudil mesylate
+C4535718,netarsudil
+C4541383,cenegermin
+C4541569,infliximab-qbtx
+C4541579,trastuzumab-dkst
+C4542480,triethanolamine laurylaminopropionate
+C4547776,darolutamide
+C4548369,cefiderocol
+C4548848,brexanolone
+C4550124,brolucizumab
+C4550350,ravulizumab
+C4550368,cenobamate
+C4551052,bictegravir sodium
+C4551111,gatifloxacin hemihydrate
+C4555731,"angiotensin ii acetate, human"
+C4555905,benzhydrocodone
+C4682392,umbralisib
+C4682397,ivosidenib
+C4683810,zanubrutinib
+C4684922,avatrombopag maleate
+C4684927,benzhydrocodone hydrochloride
+C4684933,bivalirudin trifluoroacetate
+C4688584,givosiran
+C4688636,"tiotropium bromide, anhydrous"
+C4688747,baloxavir marboxil
+C4689423,magnesium chloride tetrahydrate
+C4689607,ibalizumab-uiyk
+C4691413,tildrakizumab-asmn
+C4691480,burosumab-twza
+C4692006,"coagulation factor xa (recombinant), inactivated-zhzo"
+C4694171,ursadiol
+C4694273,galcanezumab
+C4694429,pegvaliase-pqpz
+C4694938,epoetin alfa-epbx
+C4703816,pegfilgrastim-jmdb
+C4703827,albumin human-kjda
+C4704493,disodium citrate sesquihydrate
+C4704592,elagolix sodium
+C4709331,cytomegalovirus dna terminase complex inhibitor [epc]
+C4719440,glycopyrronium tosylate
+C4719452,plazomicin sulfate
+C4719543,patisiran sodium
+C4719544,fish oil (containing omega-3 acids)
+C4721554,filgrastim-aafi
+C4721977,fusarium oxysporum vasinfectum allergenic extract
+C4723013,ticovirimat monohydrate
+C4723218,"antihemophilic factor (recombinant), pegylated-aucl"
+C4723219,damoctocog alfa pegol
+C4723241,tecovirimat monohydrate
+C4723361,eravacycline dihydrochloride
+C4723449,patisiran sodium lipid complex
+C4723584,pemetrexed disodium hemipentahydrate
+C4723629,voxelotor
+C4724806,cemiplimab
+C4724807,pemigatinib
+C4726670,relebactam monohydrate
+C4726677,remdesivir
+C4726693,rimegepant sulfate
+C4726721,sacituzumab
+C4726732,satralizumab
+C4726765,solriamfetol
+C4726799,talazoparib tosylate
+C4726831,tenapanor hydrochloride
+C4726900,trastuzumab deruxtecan
+C4726928,umbralisib tosylate
+C4726929,upadacitinib
+C4727747,sarecycline hydrochloride
+C4731383,cenegermin-bkbj
+C4731528,cemiplimab-rwlc
+C4731561,galcanezumab-gnlm
+C4731707,amikacin liposomal
+C4731736,elapegademase-lvlr
+C4731737,elapegademase
+C4731850,inotersen
+C4731851,inotersen sodium
+C4731855,carboxymethylcellulose sodium (0.9 carboxymethyl substitution per saccharide; 600 mpa.s at 2 %)
+C4731858,moxetumomab pasudotox-tdfk
+C4733494,naxitamab
+C4734224,baloxavir
+C4734566,crotalidae immune f(ab')2
+C4734962,immune globulin intravenous (human) - ifas
+C4735048,pegfilgrastim-cbqv
+C4740883,larotrectinib sulfate
+C4740903,emapalumab-lzsg
+C4740904,emapalumab
+C4741328,rituximab-abbs
+C4741340,glasdegib maleate
+C4741538,calcium citrate anhydrous
+C4741882,trastuzumab-pkrb
+C4741891,magnesium sulfate dihydrate
+C4743552,avapritinib
+C4745432,ravulizumab-cwvz
+C4745457,calaspargase pegol-mknl
+C4746080,riboflavin sodium
+C4746083,tagraxofusp-erzs
+C4746084,tagraxofusp
+C4758794,trastuzumab-dttb
+C4759080,caplacizumab-yhdp
+C4759195,prabotulinumtoxina-xvfs
+C4762343,pitolisant hydrochloride
+C4762536,ondansetron hydrochloride anhydrous
+C4764376,trastuzumab-qyyp
+C4764383,hyaluronidase-oysk
+C4765025,trastuzumab-oysk
+C4765027,tivozanib hydrochloride
+C4765130,solriamfetol hydrochloride
+C4765802,immune globulin intravenous (human) - slra
+C4765888,romosozumab-aqqg
+C4766117,risankizumab-rzaa
+C5136863,immune globulin subcutaneous (human) - hipp
+C5139676,risdiplam
+C5139717,elexacaftor
+C5139729,diroximel fumarate
+C5139749,ripretinib
+C5139793,casimersen
+C5139804,viltolarsen
+C5139868,dasiglucagon
+C5139916,tafasitamab
+C5140028,onasemnogene abeparvovec
+C5140521,onasemnogene abeparvovec-xioi
+C5140554,polatuzumab vedotin-piiq
+C5187552,trastuzumab-anns
+C5187683,bremelanotide acetate
+C5188106,bevacizumab-bvzr
+C5195655,rituximab-pvvr
+C5195717,pexidartinib hydrochloride
+C5195719,amlodipine benzoate
+C5196154,fedratinib hydrochloride
+C5196221,immune globulin subcutaneous (human) - klhw
+C5200976,sodium acetylated hyaluronate
+C5200988,ropivacaine hydrochloride anhydrous
+C5200996,methylene blue anhydrous
+C5201088,eletriptan hydrobromide monohydrate
+C5203168,carboxymethylcellulose sodium (0.7 carboxymethyl substitution per saccharide; 38 mpa.s at 2%)
+C5203804,loncastuximab tesirine
+C5206403,ibrexafungerp
+C5207169,lefamulin acetate
+C5207592,selenium chloride
+C5209933,noradrenaline hydrochloride
+C5209992,brolucizumab-dbll
+C5210504,afamelanotide acetate
+C5211091,pegfilgrastim-bmez
+C5211093,luspatercept-aamt
+C5221241,givosiran sodium
+C5221242,cefiderocol sulfate tosylate
+C5222004,golodirsen
+C5222083,infliximab-axxq
+C5222084,fam-trastuzumab deruxtecan-nxki
+C5226874,pralsetinib
+C5227411,belantamab mafodotin
+C5227850,enfortumab vedotin-ejfv
+C5228580,lumateperone tosylate
+C5228604,enfortumab
+C5233973,tazemetostat hydrobromide
+C5233985,ferric derisomaltose
+C5234029,teprotumumab-trbw
+C5234188,antihemophilic factor (recombinant) pegylated-exei
+C5234322,levamlodipine maleate
+C5234596,riboflavin 5'-phosphate sodium anhydrous
+C5235396,selpercatinib
+C5237972,serdexmethylphenidate
+C5238054,fostemsavir tromethamine
+C5238084,cabotegravir sodium
+C5238091,ozanimod hydrochloride
+C5241596,strontium cation sr-89
+C5241853,isatuximab-irfc
+C5242088,osilodrostat phosphate
+C5242321,patisiran lipid complex
+C5242455,dostarlimab
+C5244401,sacituzumab govitecan-hziy
+C5244559,coagulation factor viia (recombinant)-jncw
+C5245073,daratumumab-fihj
+C5245409,"alpha-tocopherol succinate, dl-"
+C5383290,hyaluronidase-fihj
+C5384228,laureth-9 phosphate
+C5384327,inebilizumab-cdon
+C5389884,insulin lispro-aabc
+C5389885,pegfilgrastim-apgf
+C5389886,hyaluronidase-zzxf
+C5390888,pertuzumab-zzxf
+C5390889,trastuzumab-zzxf
+C5398046,brexucabtagene autoleucel
+C5398272,calcium oxybate
+C5398273,magnesium oxybate
+C5398274,potassium oxybate
+C5398276,oliceridine fumarate
+C5399232,belantamab
+C5399324,tafasitamab-cxix
+C5399365,belantamab mafodotin-blmf
+C5399366,satralizumab-mwge
+C5401895,"pantothenic acid, (+-)-"
+C5418250,sotorasib
+C5418501,pegcetacoplan
+C5418527,serdexmethylphenidate chloride
+C5419289,tepotinib hydrochloride
+C5420915,ibrexafungerp citrate
+C5421037,fosdenopterin hydrobromide
+C5421804,etesevimab
+C5421805,bamlanivimab
+C5422688,casirivimab
+C5422689,imdevimab
+C5432324,ansuvimab
+C5432354,ansuvimab-zykl
+C5432357,rituximab-arrx
+C5432368,margetuximab-cmkb
+C5433947,sotrovimab
+C5443553,melphalan flufenamide hydrochloride
+C5443862,lacticaseibacillus rhamnosus gg
+C5446297,amivantamab
+C5450069,dostarlimab-gxly
+C5450070,loncastuximab tesirine-lpyl
+C5450104,amivantamab-vmjw
+C5455400,"plasminogen, human-tvmh"
+C5455414,aducanumab-avwa
+C5455727,propofol lipid emulsion
+C5539923,asparaginase erwinia chrysanthemi (recombinant)-rywn

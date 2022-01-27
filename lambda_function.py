@@ -34,8 +34,8 @@ disease_cui_df = pd.read_csv(obj1['Body'])
 obj2 = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/May_Treat_CS.csv')
 may_treat_df = pd.read_csv(obj2['Body'])
 
-#Pref Medicine csv
-obj3 = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/Pref-Medicine_CUI_CS.csv')
+#Pref Medicine csv #Updated to filter CUIs on this file
+obj3 = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/Unique_Pref-Medicine_CUI_CS.csv')
 pref_medicine_df=pd.read_csv(obj3['Body'])
 
 logger = logging.getLogger(__name__)
