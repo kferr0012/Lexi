@@ -6,6 +6,8 @@
 ## Current Features :
 * Prescription Recommendation
     * As a doctor, I want Lexi to provide a prescription recommendation based on my patient's disease/illness.
+* Definitions
+    * As a doctor, I want Lexi to give me the definition of concepts. 
 
 ## Future Features : 
 * Adverse Drug-to-Drug Detection
@@ -23,7 +25,7 @@
 
 ## Usage :
 * Start Lexi :
-    * User says "hey lexi"
+    * User says "launch medical bot"
     * (This is the Invocation Name, similar to saying "Alexa")
 * Ask for a prescription recommendation :
     * User provides an utterance for Prescription Recommendation
