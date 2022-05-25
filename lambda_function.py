@@ -37,6 +37,10 @@ may_treat_df = pd.read_csv(obj2['Body'])
 obj3 = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/Unique_Pref-Medicine_CUI_CS.csv')
 pref_medicine_df=pd.read_csv(obj3['Body'])
 
+#GetConceptDefinition CSV
+obj4 = client.get_object(Bucket='d162c3e5-f455-4da0-96de-4668deafb2eb-us-east-1', Key='Media/concept_to_def_map.csv')
+concept_to_def_df = pd.read_csv(obj4['Body'])
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
@@ -306,7 +310,44 @@ class PrescribeMedicationIntentHandler(AbstractRequestHandler):
             handler_input.response_builder.speak(speak_output).response
             )
 
-
+class GetConceptDefinitionIntentHandler(AbstractRequestHandler):
+    def can_handle(self, handler_input):
+        return ask_utils.is_intent_name("getConceptDefinitionIntent")(handler_input)
+        
+    def handle(self, handler_input):
+        try:
+            slots = handler_input.request_envelope.request.intent.slots
+            concept = slots["concept"].value
+            speak_output = "Concept detected :  " + str(concept) + ". "
+            
+            def get_definition(concept):
+                # Try to perform lookup
+                try:   
+                    sub_df = concept_to_def_df.loc[concept_to_def_df["STR"]==concept,"DEF"]
+                    ans = sub_df.tolist()
+                    #Indicate NOT FOUND
+                    if len(ans) == 0:
+                        return -2
+                    return ans[0]
+                except Exception as e:
+                    print("Error within function: get_definition")
+                    print(str(e))
+                    return -1
+                     
+            definition = get_definition(concept)
+            # speak_output += str(definition)
+            # speak_output = str(output)
+            if definition == -2:
+                speak_output += "Couldn't find in database."
+            else:
+                speak_output += definition
+        except Exception as f:
+            speak_output = str(f)
+            
+        
+        return(
+            handler_input.response_builder.speak(speak_output).response
+            )
 
 # The SkillBuilder object acts as the entry point for your skill, routing all request and response
 # payloads to the handlers above. Make sure any new handlers or interceptors you've
@@ -318,6 +359,7 @@ sb = SkillBuilder()
 sb.add_request_handler(LaunchRequestHandler())
 sb.add_request_handler(HelloWorldIntentHandler())
 sb.add_request_handler(PrescribeMedicationIntentHandler()) #Added new handler
+sb.add_request_handler(GetConceptDefinitionIntentHandler()) #Added new handler
 sb.add_request_handler(HelpIntentHandler())
 sb.add_request_handler(CancelOrStopIntentHandler())
 sb.add_request_handler(FallbackIntentHandler())
