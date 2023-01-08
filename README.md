@@ -19,7 +19,7 @@
     * As a doctor, I want Lexi to give me the definition of concepts. 
 
 ## Future Features : 
-* Adverse Drug-to-Drug Detection
+* Adverse Drug-to-Drug Detection :
    * As a doctor, I want to be able to ask Lexi if there's any adverse interaction between a given list of drugs.
 * Ask Mayo Clinic :
    * As a doctor, I want ask what Mayo Clinic says about a given drug.
