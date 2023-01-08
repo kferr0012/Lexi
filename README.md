@@ -7,10 +7,10 @@
 ![Image of DesignGraph2](/images/DesignGraph2.png)
 
 ### User Usagae :
-###### A user will be able to interact with Lexi through Amazon Alexa and Amazon Astro devices. The commands given by a user are passed from these devices to the middle layer, AWS Lambda, to handle business logic. Based on the user's input, AWS Lambda will perform the necessary queries from its knowledge sources and return natural language responses to the user. Currently, the main knowledge source being used is the Unified Medical Langauge System (UMLS) data contained in S3 buckets.
+##### A user will be able to interact with Lexi through Amazon Alexa and Amazon Astro devices. The commands given by a user are passed from these devices to the middle layer, AWS Lambda, to handle business logic. Based on the user's input, AWS Lambda will perform the necessary queries from its knowledge sources and return natural language responses to the user. Currently, the main knowledge source being used is the Unified Medical Langauge System (UMLS) data contained in S3 buckets.
 
 ### Developer Usage :
-###### A developer will be able to interact with Lexi through endpoints exposed by AWS API Gateway. API Gateway will forward requests to a server hosted with AWS EC2. The Widget component exposes endpoints for querying knowledge from UMLS and provides querying capability for definitions and relationships of medical concepts.
+##### A developer will be able to interact with Lexi through endpoints exposed by AWS API Gateway. API Gateway will forward requests to a server hosted with AWS EC2. The Widget component exposes endpoints for querying knowledge from UMLS and provides querying capability for definitions and relationships of medical concepts.
 
 ## Current Features :
 * Prescription Recommendation
