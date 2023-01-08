@@ -34,4 +34,7 @@
     * User provides an utterance for Prescription Recommendation
     * (e.g. User says "My patient has a cold. What should I give him?")
 
+## Docker Container for PyLucene Feature:
+https://hub.docker.com/repository/docker/krferr/lexi_pylucene/general
+
 
