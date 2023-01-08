@@ -41,7 +41,7 @@
     * (e.g. User says "My patient has a cold. What should I give him?")
     
 ## Examples :
-![Image of Prescription Recommendation Example](/images/PrescriptionRecommendationExample.png|250x250)
+![Image of Prescription Recommendation Example](/images/PrescriptionRecommendationExample.png)
 ![Image of Definition Example](/images/DefinitionExample.png)
 
 ## Docker Container for PyLucene Feature:
