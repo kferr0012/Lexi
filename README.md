@@ -40,12 +40,6 @@
     * User provides an utterance for Prescription Recommendation
     * (e.g. User says "My patient has a cold. What should I give him?")
 
-## Examples :
-* Prescription Recommendation
-![Image of PrescriptionRecommendationExample](/images/PrescriptionRecommendationExample.png)
-* Definitions
-![Image of DefinitionExample](/images/DefinitionExample.png)
-
 ## Docker Container for PyLucene Feature:
 https://hub.docker.com/repository/docker/krferr/lexi_pylucene/general
 
