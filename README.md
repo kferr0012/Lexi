@@ -4,7 +4,7 @@
 #### Lexi is a medical artificial intelligence that uses a custom knowledge base system on its backend. This knowledge base is bootstrapped by the Unified Medical Language System and then supplemented with public sources of knowledge. Reputable websites related to medicine are identified and scraped, then information is extracted, curated, and added to the knowledge base. This work focuses on exposing endpoints to that knowledge in the form of a voice-based user interface, using Amazon's Alexa API. We envision multiple endpoints in the future like chatbost, document annotation, and even robotics.
 
 ## Design Graph 
-![Image of DesignGraph1](/images/DesignGraph1.png)
+![Image of DesignGraph2](/images/DesignGraph2.png)
 
 ## Current Features :
 * Prescription Recommendation
